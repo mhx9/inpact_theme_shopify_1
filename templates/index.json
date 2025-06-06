@@ -186,6 +186,164 @@
         "text_gradient": ""
       }
     },
+    "rich_text_H3cQM3": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_6eaJaE": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_m4M6p6": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_t7m4Tr": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_6eaJaE",
+        "heading_m4M6p6",
+        "richtext_t7m4Tr"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_hNAfRB": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/bienfaits.png",
+        "mobile_image": "shopify://shop_images/bienfaits.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "featured_product_MXYQBL": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_JnaxNN": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_qJ7EiF": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_RtateR": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_AGAiGX": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_z8CVFH": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_qAP9tN": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_QEGK6V": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_qT9BAC": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_y9FPCg": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_MVxw9r": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_ncc8AC": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_JnaxNN",
+        "title_qJ7EiF",
+        "badges_RtateR",
+        "price_AGAiGX",
+        "rating_z8CVFH",
+        "separator_qAP9tN",
+        "description_QEGK6V",
+        "variant_picker_qT9BAC",
+        "quantity_selector_y9FPCg",
+        "buy_buttons_MVxw9r",
+        "pickup_availability_ncc8AC"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "schollderma-pro-avec-60-coussinets-de-glissement-gratuits",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
@@ -471,7 +629,7 @@
         "before_after_text_position": "bottom",
         "before_text": "Avant",
         "after_text": "Après",
-        "drag_initial_position": 50,
+        "drag_initial_position": 35,
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -898,6 +1056,9 @@
     "slideshow",
     "image-link-blocks",
     "scrolling-text",
+    "rich_text_H3cQM3",
+    "image_with_text_overlay_hNAfRB",
+    "featured_product_MXYQBL",
     "collection-list",
     "featured-collection",
     "impact-text",
