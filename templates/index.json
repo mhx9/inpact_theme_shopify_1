@@ -173,6 +173,7 @@
     },
     "scrolling-text": {
       "type": "scrolling-text",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "text": "Promotion text",
@@ -203,7 +204,7 @@
         "heading_m4M6p6"
       ],
       "custom_css": [
-        ".section-full {padding-top: 0px; padding-bottom: 10px;}"
+        ".section-full {padding-top: 0px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px;}"
       ],
       "name": "Rich text",
       "settings": {
