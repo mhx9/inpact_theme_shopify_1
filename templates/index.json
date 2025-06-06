@@ -15,6 +15,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/mobil_1.png",
             "mobile_image": "shopify://shop_images/mobile_2.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
@@ -36,6 +37,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/mobil_1.png",
+            "mobile_image": "shopify://shop_images/mobile_2.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
