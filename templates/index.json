@@ -192,8 +192,8 @@
         "heading_m4M6p6": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
+            "text": "Pourquoi choisir la Lime Électrique SchollDerma ?",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -201,6 +201,9 @@
       },
       "block_order": [
         "heading_m4M6p6"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 0px; padding-bottom: 10px;}"
       ],
       "name": "Rich text",
       "settings": {
