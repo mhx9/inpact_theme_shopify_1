@@ -444,6 +444,12 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "countdown_timer_essential_app_block_FRMeRJ": {
+          "type": "shopify://apps/countdown-timer-essential/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": ""
+          }
+        },
         "buy_buttons_MVxw9r": {
           "type": "buy_buttons",
           "settings": {
@@ -470,6 +476,7 @@
         "description_QEGK6V",
         "variant_picker_qT9BAC",
         "quantity_selector_y9FPCg",
+        "countdown_timer_essential_app_block_FRMeRJ",
         "buy_buttons_MVxw9r",
         "pickup_availability_ncc8AC"
       ],
