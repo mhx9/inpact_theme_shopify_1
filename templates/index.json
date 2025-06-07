@@ -442,6 +442,7 @@
         },
         "quantity_selector_y9FPCg": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {}
         },
         "countdown_timer_essential_app_block_FRMeRJ": {
