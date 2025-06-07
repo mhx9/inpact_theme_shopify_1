@@ -49,8 +49,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/mobil_1.png",
-            "mobile_image": "shopify://shop_images/mobile_2.png",
+            "image": "shopify://shop_images/Photo_groupe_ami.png",
+            "mobile_image": "shopify://shop_images/Photo_groupe_ami.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -997,6 +997,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/table_compare.png",
+        "mobile_image": "shopify://shop_images/table_mobile.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
