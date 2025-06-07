@@ -395,6 +395,7 @@
       "blocks": {
         "vendor_JnaxNN": {
           "type": "vendor",
+          "disabled": true,
           "settings": {}
         },
         "title_qJ7EiF": {
@@ -446,7 +447,7 @@
         "buy_buttons_MVxw9r": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
+            "show_payment_button": false,
             "show_gift_card_recipient": true,
             "atc_button_background": "",
             "atc_button_text_color": "",
