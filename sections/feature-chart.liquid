@@ -27,7 +27,7 @@ CSS
       }
 
       #shopify-section-{{ section.id }} .section-stack__intro {
-        flex: 1 0 350px; /* Allow to grow and shrink with a range from 350px to 750px */
+        flex: 1 0 350px;
         max-width: 750px;
         width: auto;
       }
@@ -36,10 +36,43 @@ CSS
         flex: 1 1 {% if values_column_count == 1 %}600px{% elsif values_column_count == 2 %}900px{% else %}auto{% endif %};
         min-width: 450px;
         width: auto;
+        overflow-x: auto;
       }
     {%- endif -%}
   }
+
+  /* 🧱 Structure "tableau" mais flexible */
+  #shopify-section-{{ section.id }} .feature-chart__table {
+    display: table;
+    width: 100%;
+    table-layout: auto;
+    border-collapse: collapse;
+  }
+
+  #shopify-section-{{ section.id }} .feature-chart__table-row {
+    display: table-row;
+  }
+
+  #shopify-section-{{ section.id }} .feature-chart__heading,
+  #shopify-section-{{ section.id }} .feature-chart__value,
+  #shopify-section-{{ section.id }} .feature-chart__product {
+    display: table-cell;
+    padding: 10px 16px;
+    vertical-align: top;
+    white-space: nowrap;         /* Empêche le retour à la ligne */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-width: max-content;      /* La cellule s'élargit pour contenir le texte */
+  }
+
+  /* Alignement propre */
+  #shopify-section-{{ section.id }} .feature-chart__heading {
+    font-weight: 600;
+    text-align: left;
+  }
 </style>
+
+
 
 {%- comment -%}
 ------------------------------------------------------------------------------------------------------------------------
@@ -110,7 +143,7 @@ LIQUID
           {%- comment -%}We need to create a first row for the products if any{%- endcomment -%}
           {%- if has_product -%}
             {%- capture product_row -%}
-              {%- for i in (0..2) -%}
+              {%- for i in (0..7) -%}
                 {%- if values_blocks[i].settings.product != blank -%}
                   {%- assign chart_product = values_blocks[i].settings.product -%}
 
@@ -194,7 +227,7 @@ LIQUID
                   <div class="feature-chart__heading bold" {% if outputted_count == 0 %}{{ headings_block.shopify_attributes }}{% endif %}>{{ heading_value }}</div>
                 {%- endif -%}
 
-                {%- for i in (0..2) -%}
+                {%- for i in (0..7) -%}
                   {%- if values_blocks[i] != blank -%}
                     {%- assign value = values_blocks[i].settings[value_key] -%}
                     {%- assign stripped_value = value | strip_html | strip -%}
@@ -508,7 +541,7 @@ LIQUID
     {
       "name": "Values column",
       "type": "values",
-      "limit": 3,
+      "limit": 8,
       "settings": [
         {
           "type": "product",
