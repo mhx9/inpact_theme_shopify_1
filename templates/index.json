@@ -591,6 +591,7 @@
       "blocks": {
         "1664424181b38582d5-0": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "100%",
             "subheading": "Showcase a benefit of your product",
