@@ -27,7 +27,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/fond_off_titre_ordi.png",
+            "image": "shopify://shop_images/fond_off_titre_ordi_7d4fbefb-d6e4-463e-bb1e-90d1fc1ebe6f.png",
             "mobile_image": "shopify://shop_images/mobile_2.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
@@ -49,7 +49,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/fond_titre_ordi_off.png",
+            "image": "shopify://shop_images/fond_titre_ordi_a7184df8-f0e0-45b8-a6e8-8380d5c797b4.png",
             "mobile_image": "shopify://shop_images/Photo_groupe_ami.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
@@ -224,7 +224,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/bienfaits.png",
+        "image": "shopify://shop_images/bienfaits_ordi_1_38148626-e668-42a0-ab54-5c1187743b7c.png",
         "mobile_image": "shopify://shop_images/bienfaits.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
