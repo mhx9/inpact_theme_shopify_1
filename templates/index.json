@@ -260,7 +260,7 @@
       "name": "Logo list",
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
+        "stack_mobile": false,
         "title": "Vu sur :",
         "content": "",
         "text_alignment": "center",
@@ -318,6 +318,41 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
+      }
+    },
+    "media_with_text_TWDNip": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_7Dfg96": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Design_ohne_Titel_6_2.gif",
+            "media_width": 30,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Avant / Après avec SchollDerma Pro",
+            "content": "<h5>Ne cachez plus jamais vos pieds. Prenez confiance en vous avec Scholl Derma Pro une seule fois, et vous ne pourrez plus vous en passer</h5>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ff9eb2",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_7Dfg96"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
       }
     },
     "featured_product_MXYQBL": {
@@ -690,6 +725,23 @@
         "mobile_row_height": 150,
         "background": "",
         "background_gradient": ""
+      }
+    },
+    "image_with_text_overlay_QLVCEq": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/table_compare.png",
+        "mobile_image": "shopify://shop_images/table_mobile.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "before-after-image": {
@@ -1075,23 +1127,6 @@
         "chart_true_false_color": ""
       }
     },
-    "image_with_text_overlay_QLVCEq": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/table_compare.png",
-        "mobile_image": "shopify://shop_images/table_mobile.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -1153,19 +1188,20 @@
     "logo_list_XiFDfh",
     "rich_text_H3cQM3",
     "image_with_text_overlay_hNAfRB",
+    "media_with_text_TWDNip",
     "featured_product_MXYQBL",
     "collection-list",
     "featured-collection",
     "impact-text",
     "image-with-text-overlay",
     "media-grid",
+    "image_with_text_overlay_QLVCEq",
     "before-after-image",
     "press",
     "hot-spots",
     "multiple-images-with-text",
     "featured-product",
     "feature-chart",
-    "image_with_text_overlay_QLVCEq",
     "faq"
   ]
 }
