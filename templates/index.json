@@ -1133,29 +1133,61 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Le SchollDerma Pro est-il testé selon les normes de sécurité en vigueur (GPSR)?",
+            "title": "Le SchollDerma Pro est-il testé selon les normes de sécurité en vigueur (GPSR) ?",
             "content": "<p>Oui!</p><p>Notre <strong>SchollDerma Pro</strong> est conforme aux exigences du <strong>règlement UE 2023/988 (Règlement général sur la sécurité des produits - GPSR)</strong> sur la sécurité générale des produits.<br/></p><p><strong>Informations importantes :</strong></p><ul><li>Le produit a été testé pour la sécurité électrique.<br/></li><li>Des analyses de risques et des tests de produits ont été réalisés.<br/></li><li>Toutes les instructions de sécurité et d'application pertinentes sont<br/></li><li>﻿﻿Une utilisation sûre à la maison est garantie.<br/></li></ul><p><strong>Responsable de la sécurité des produits :</strong></p><p>Raison sociale : SchollDermaFrance<br/>Nom commercial : SchollDerma<br/>Adresse : 16 Rue Pasquier, 75008 Paris<br/>Contact :<a>contact@schollderma.fr<br/></a>Site internet :<a href=\"https://kumika.fr/\">https://schollderma.fr</a></p><p>Si vous avez d’autres questions sur la sécurité des produits, n’hésitez pas à nous contacter à tout moment !</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Comment fonctionne SchollDerma ?",
+            "content": "<p>SchollDerma utilise un disque abrasif rotatif pour éliminer efficacement et en douceur les callosités. Selon l'accessoire utilisé, l'appareil convient aux peaux sensibles, normales ou fortement calleuses. Il suffit de l'allumer, de le déplacer sur les zones concernées et le tour est joué !</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "À quelle fréquence dois-je utiliser l'appareil ?",
+            "content": "<p>Cela dépend de votre type de peau. En général, <strong>une à deux applications par semaine </strong>suffisent pour garder des pieds lisses et durables. Si vous avez des callosités importantes, vous pouvez l'utiliser plus souvent, mais veillez à ne pas trop traiter votre peau.<br/><br/></p>"
+          }
+        },
+        "item_FXCirL": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je également utiliser l'appareil sous la douche ?",
+            "content": "<p>SchollDerma <strong>n'est pas étanche</strong>. Veuillez l'utiliser uniquement sur <strong>peau sèche </strong>et nettoyer l'appareil avec un chiffon légèrement humide après utilisation. Les têtes de meulage sont lavables.<br/><br/></p>"
+          }
+        },
+        "item_ycUt3H": {
+          "type": "item",
+          "settings": {
+            "title": "L'application est-elle douloureuse ?",
+            "content": "<p>Non ! SchollDerma agit <strong>en douceur sur la peau</strong>, sans la couper. Vous ne ressentirez qu'une légère sensation abrasive. Utilisé correctement, le traitement est totalement indolore.</p>"
+          }
+        },
+        "item_JcfQdm": {
+          "type": "item",
+          "settings": {
+            "title": "Comment SchollDerma est-il chargé et combien de temps dure la batterie ?",
+            "content": "<p>L'appareil se recharge facilement grâce <strong>au câble USB fourni</strong>. Une charge complète suffit pour plusieurs utilisations, selon la durée d'utilisation. L'<strong>écran numérique </strong>indique le niveau de batterie en permanence.</p>"
+          }
+        },
+        "item_qiyTBi": {
+          "type": "item",
+          "settings": {
+            "title": "Comment puis-je retourner le produit si je ne suis pas satisfait ?",
+            "content": "<p>Vous pouvez essayer SchollDerma sans risque pendant <strong>30 jours</strong>. Si vous n'êtes pas satisfait, écrivez-nous simplement et nous vous rembourserons le prix d'achat (à condition que l'appareil soit en bon état). Vous trouverez toutes les informations dans notre politique de retour.<br/><br/></p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_FXCirL",
+        "item_ycUt3H",
+        "item_JcfQdm",
+        "item_qiyTBi"
       ],
       "settings": {
         "full_width": false,
