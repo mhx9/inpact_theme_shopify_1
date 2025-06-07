@@ -38,7 +38,14 @@
     "favicon": "shopify://shop_images/logo_scholl_2.png",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "12657775114333427046": {
+        "type": "shopify://apps/countdown-timer-essential/blocks/app_embed/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   },
   "presets": {
     "Sound": {
