@@ -100,6 +100,18 @@
             "overlay_opacity": 0
           }
         },
+        "item_wedmGK": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
         "1664424046b00c932c-1": {
           "type": "item",
           "settings": {
@@ -113,6 +125,18 @@
           }
         },
         "1664424046b00c932c-2": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_44BBw8": {
           "type": "item",
           "settings": {
             "stretch_image": true,
@@ -151,11 +175,14 @@
       },
       "block_order": [
         "1664424046b00c932c-0",
+        "item_wedmGK",
         "1664424046b00c932c-1",
         "1664424046b00c932c-2",
+        "item_44BBw8",
         "1664424046b00c932c-3",
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "block_size": "medium",
@@ -185,6 +212,66 @@
         "background_gradient": "",
         "text_color": "",
         "text_gradient": ""
+      }
+    },
+    "logo_list_XiFDfh": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_FjKYGK": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
+            "logo_width": 200,
+            "link": ""
+          }
+        },
+        "logo_b8g3JU": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo_cos.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_GePLdG": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Kein_Titel_240_x_240_px_10_1.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_R4jPwY": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Womenshealthlogo_svg.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_FjKYGK",
+        "logo_b8g3JU",
+        "logo_GePLdG",
+        "logo_R4jPwY"
+      ],
+      "custom_css": [],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Vu sur :",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 4,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
       }
     },
     "rich_text_H3cQM3": {
@@ -1063,6 +1150,7 @@
     "slideshow",
     "image-link-blocks",
     "scrolling-text",
+    "logo_list_XiFDfh",
     "rich_text_H3cQM3",
     "image_with_text_overlay_hNAfRB",
     "featured_product_MXYQBL",
