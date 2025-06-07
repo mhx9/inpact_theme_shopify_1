@@ -326,7 +326,7 @@
         "image_7Dfg96": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Design_ohne_Titel_6_2.gif",
+            "image": "shopify://shop_images/Design_ohne_Titel_7_1.gif",
             "media_width": 30,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -348,6 +348,41 @@
       },
       "block_order": [
         "image_7Dfg96"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "media_with_text_WH4Fg6": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_YPMCeG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Design_ohne_Titel_6_2.gif",
+            "media_width": 30,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Avant / Après avec SchollDerma Pro",
+            "content": "<h5>Ne cachez plus jamais vos pieds. Prenez confiance en vous avec Scholl Derma Pro, une seule fois suffit pour ne plus vous en passer.</h5>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ff9eb2",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_YPMCeG"
       ],
       "name": "Media with text",
       "settings": {
@@ -1229,6 +1264,7 @@
     "rich_text_H3cQM3",
     "image_with_text_overlay_hNAfRB",
     "media_with_text_TWDNip",
+    "media_with_text_WH4Fg6",
     "featured_product_MXYQBL",
     "collection-list",
     "featured-collection",
