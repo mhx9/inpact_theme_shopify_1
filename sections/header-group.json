@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
+            "text": "LIVRAISON OFFERTE",
+            "url": ""
+          }
+        },
+        "message_rAqUpF": {
+          "type": "message",
+          "settings": {
             "text": "Announce something here",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_rAqUpF"
       ],
       "settings": {
         "enable_sticky": false,
