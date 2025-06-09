@@ -41,13 +41,21 @@
             "text": "Announce something here",
             "url": ""
           }
+        },
+        "message_zTRbcj": {
+          "type": "message",
+          "settings": {
+            "text": "OFFRE -50% Aujourd'hui Uniquement",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
         "message_rAqUpF",
         "message_dWLFQt",
-        "message_JwAb8c"
+        "message_JwAb8c",
+        "message_zTRbcj"
       ],
       "settings": {
         "enable_sticky": false,
