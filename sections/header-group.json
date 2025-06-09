@@ -34,12 +34,20 @@
             "text": "SATISFAIT OU REMBOURSÉ",
             "url": ""
           }
+        },
+        "message_JwAb8c": {
+          "type": "message",
+          "settings": {
+            "text": "Announce something here",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
         "message_rAqUpF",
-        "message_dWLFQt"
+        "message_dWLFQt",
+        "message_JwAb8c"
       ],
       "settings": {
         "enable_sticky": false,
