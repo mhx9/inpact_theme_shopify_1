@@ -27,11 +27,19 @@
             "text": "STOCKS BIENTÔT ÉPUISÉS",
             "url": ""
           }
+        },
+        "message_dWLFQt": {
+          "type": "message",
+          "settings": {
+            "text": "SATISFAIT OU REMBOURSÉ",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_rAqUpF"
+        "message_rAqUpF",
+        "message_dWLFQt"
       ],
       "settings": {
         "enable_sticky": false,
