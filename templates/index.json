@@ -220,8 +220,8 @@
         "logo_FjKYGK": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
-            "logo_width": 200,
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
+            "logo_width": 300,
             "link": ""
           }
         },
@@ -237,7 +237,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Kein_Titel_240_x_240_px_10_1.png",
-            "logo_width": 120,
+            "logo_width": 80,
             "link": ""
           }
         },
