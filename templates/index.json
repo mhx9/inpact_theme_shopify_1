@@ -495,7 +495,7 @@
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
+        "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
         "enable_image_zoom": true,
@@ -600,6 +600,30 @@
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
+      }
+    },
+    "before-after-image": {
+      "type": "before-after-image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Avant/Après",
+        "content": "<p><strong>ShcollDerma Pro</strong> élimine même les callosités les plus tenaces en quelques minutes – en douceur, sans douleur, et directement depuis chez vous.<br/></p><h2><strong>95 %</strong></h2><p>ont constaté une amélioration visible de la texture de leur peau dès la première utilisation.</p><p></p><h2><strong>100 %</strong></h2><p>affirment avoir des pieds plus doux et souples, sans zones rugueuses ni sécheresse.</p><p></p><h2><strong>99 %</strong></h2><p>utilisent ShcollDerma régulièrement car il élimine la corne efficacement tout en améliorant leur bien-être au quotidien.<br/></p>",
+        "before_image": "shopify://shop_images/image.webp",
+        "after_image": "shopify://shop_images/1image.webp",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "bottom",
+        "before_text": "Avant",
+        "after_text": "Après",
+        "drag_initial_position": 35,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
       }
     },
     "impact-text": {
@@ -798,30 +822,6 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
-      }
-    },
-    "before-after-image": {
-      "type": "before-after-image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Avant/Après",
-        "content": "<p><strong>ShcollDerma Pro</strong> élimine même les callosités les plus tenaces en quelques minutes – en douceur, sans douleur, et directement depuis chez vous.<br/></p><h2><strong>95 %</strong></h2><p>ont constaté une amélioration visible de la texture de leur peau dès la première utilisation.</p><p></p><h2><strong>100 %</strong></h2><p>affirment avoir des pieds plus doux et souples, sans zones rugueuses ni sécheresse.</p><p></p><h2><strong>99 %</strong></h2><p>utilisent ShcollDerma régulièrement car il élimine la corne efficacement tout en améliorant leur bien-être au quotidien.<br/></p>",
-        "before_image": "shopify://shop_images/image.webp",
-        "after_image": "shopify://shop_images/1image.webp",
-        "expand_image": false,
-        "text_position": "start",
-        "before_after_text_position": "bottom",
-        "before_text": "Avant",
-        "after_text": "Après",
-        "drag_initial_position": 35,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
       }
     },
     "press": {
