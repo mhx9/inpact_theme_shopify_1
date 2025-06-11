@@ -31,14 +31,30 @@
         "heading_FCHcM9": {
           "type": "heading",
           "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
+            "text": "OVAÏA,",
+            "heading_tag": "h0"
+          }
+        },
+        "heading_mGq9Fe": {
+          "type": "heading",
+          "settings": {
+            "text": "ce que la nature",
+            "heading_tag": "h3"
+          }
+        },
+        "heading_WVy6GM": {
+          "type": "heading",
+          "settings": {
+            "text": "fait de mieux",
+            "heading_tag": "h3"
           }
         }
       },
       "block_order": [
         "play_HY6ckM",
-        "heading_FCHcM9"
+        "heading_FCHcM9",
+        "heading_mGq9Fe",
+        "heading_WVy6GM"
       ],
       "name": "Video",
       "settings": {
@@ -47,7 +63,7 @@
         "autoplay": true,
         "video_size": "fill",
         "video": "shopify://files/videos/dd3eb15377184f11a38274b84292370e.SD-480p-1.0Mbps-39379282.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "external_video_url": "",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
