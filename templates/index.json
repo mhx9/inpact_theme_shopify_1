@@ -21,14 +21,44 @@
         "text_color": ""
       }
     },
+    "video_XCzaB4": {
+      "type": "video",
+      "blocks": {
+        "play_HY6ckM": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_FCHcM9": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_HY6ckM",
+        "heading_FCHcM9"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "fill",
+        "video": "shopify://files/videos/dd3eb15377184f11a38274b84292370e.SD-480p-1.0Mbps-39379282.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "slideshow": {
       "type": "slideshow",
       "blocks": {
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/fond_off_titre_ordi_1.png",
-            "mobile_image": "shopify://shop_images/mobile_Fond_ecran.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -49,8 +79,6 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/fond_titre_ordi_1.png",
-            "mobile_image": "shopify://shop_images/Photo_groupe_ami_1.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -220,7 +248,6 @@
         "logo_FjKYGK": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
             "logo_width": 300,
             "link": ""
           }
@@ -228,7 +255,6 @@
         "logo_b8g3JU": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo_cos.png",
             "logo_width": 300,
             "link": ""
           }
@@ -236,7 +262,6 @@
         "logo_GePLdG": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Kein_Titel_240_x_240_px_10_1.png",
             "logo_width": 80,
             "link": ""
           }
@@ -244,7 +269,6 @@
         "logo_R4jPwY": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Womenshealthlogo_svg.png",
             "logo_width": 300,
             "link": ""
           }
@@ -311,8 +335,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/bienfaits_ordi_1_14d6db51-3eff-4c77-b43d-4b66761a261e.png",
-        "mobile_image": "shopify://shop_images/bienfaits.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -326,7 +348,6 @@
         "image_7Dfg96": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Design_ohne_Titel_7_1.gif",
             "media_width": 35,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
@@ -361,7 +382,6 @@
         "image_YPMCeG": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Design_ohne_Titel_6_2.gif",
             "media_width": 30,
             "media_position": "end",
             "text_position": "place-self-center text-center",
@@ -445,12 +465,6 @@
           "disabled": true,
           "settings": {}
         },
-        "kaching_bundles_app_block_dYBccx": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
         "countdown_timer_essential_app_block_FRMeRJ": {
           "type": "shopify://apps/countdown-timer-essential/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
           "disabled": true,
@@ -484,7 +498,6 @@
         "description_QEGK6V",
         "variant_picker_qT9BAC",
         "quantity_selector_y9FPCg",
-        "kaching_bundles_app_block_dYBccx",
         "countdown_timer_essential_app_block_FRMeRJ",
         "buy_buttons_MVxw9r",
         "pickup_availability_ncc8AC"
@@ -610,8 +623,6 @@
         "subheading": "",
         "title": "Avant/Après",
         "content": "<p><strong>ShcollDerma Pro</strong> élimine même les callosités les plus tenaces en quelques minutes – en douceur, sans douleur, et directement depuis chez vous.<br/></p><h2><strong>95 %</strong></h2><p>ont constaté une amélioration visible de la texture de leur peau dès la première utilisation.</p><p></p><h2><strong>100 %</strong></h2><p>affirment avoir des pieds plus doux et souples, sans zones rugueuses ni sécheresse.</p><p></p><h2><strong>99 %</strong></h2><p>utilisent ShcollDerma régulièrement car il élimine la corne efficacement tout en améliorant leur bien-être au quotidien.<br/></p>",
-        "before_image": "shopify://shop_images/image.webp",
-        "after_image": "shopify://shop_images/1image.webp",
         "expand_image": false,
         "text_position": "start",
         "before_after_text_position": "bottom",
@@ -816,8 +827,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/table_compare.png",
-        "mobile_image": "shopify://shop_images/table_mobile.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -1191,23 +1200,6 @@
     },
     "17493421910f80ce8c": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_agg_section_qCWmwL": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "hide_thumbnails": false,
-            "product_handle": "",
-            "aggregated": true,
-            "data-limit": 8,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_agg_section_qCWmwL"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -1309,6 +1301,7 @@
   },
   "order": [
     "rich_text_GReJfD",
+    "video_XCzaB4",
     "slideshow",
     "image-link-blocks",
     "scrolling-text",
