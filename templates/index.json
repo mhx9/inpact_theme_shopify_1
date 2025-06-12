@@ -117,6 +117,7 @@
         "slide-1",
         "slide-2"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": true,
@@ -264,6 +265,7 @@
         "logo_FjKYGK": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
             "logo_width": 300,
             "link": ""
           }
@@ -271,6 +273,7 @@
         "logo_b8g3JU": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/logo_cos.png",
             "logo_width": 300,
             "link": ""
           }
@@ -278,13 +281,15 @@
         "logo_GePLdG": {
           "type": "logo",
           "settings": {
-            "logo_width": 80,
+            "logo": "shopify://shop_images/Kein_Titel_240_x_240_px_10_1.png",
+            "logo_width": 120,
             "link": ""
           }
         },
         "logo_R4jPwY": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Womenshealthlogo_svg.png",
             "logo_width": 300,
             "link": ""
           }
@@ -320,7 +325,7 @@
         "heading_m4M6p6": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir la Lime Électrique Scholl Derma ?",
+            "text": "Pourquoi choisir les gummies Ovaïa ?",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
