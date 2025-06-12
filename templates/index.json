@@ -11,7 +11,6 @@
   "sections": {
     "rich_text_GReJfD": {
       "type": "rich-text",
-      "name": "Rich text",
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -21,60 +20,14 @@
         "text_color": ""
       }
     },
-    "video_XCzaB4": {
-      "type": "video",
-      "blocks": {
-        "play_HY6ckM": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_FCHcM9": {
-          "type": "heading",
-          "settings": {
-            "text": "OVAÏA,",
-            "heading_tag": "h0"
-          }
-        },
-        "heading_mGq9Fe": {
-          "type": "heading",
-          "settings": {
-            "text": "ce que la nature",
-            "heading_tag": "h3"
-          }
-        },
-        "heading_WVy6GM": {
-          "type": "heading",
-          "settings": {
-            "text": "fait de mieux",
-            "heading_tag": "h3"
-          }
-        }
-      },
-      "block_order": [
-        "play_HY6ckM",
-        "heading_FCHcM9",
-        "heading_mGq9Fe",
-        "heading_WVy6GM"
-      ],
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "fill",
-        "video": "shopify://files/videos/dd3eb15377184f11a38274b84292370e.SD-480p-1.0Mbps-39379282.mp4",
-        "external_video_url": "",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
     "slideshow": {
       "type": "slideshow",
       "blocks": {
         "slide-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/fond_off_titre_ordi_1.png",
+            "mobile_image": "shopify://shop_images/mobile_Fond_ecran.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -95,6 +48,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/fond_titre_ordi_1.png",
+            "mobile_image": "shopify://shop_images/Photo_groupe_ami_1.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -117,7 +72,6 @@
         "slide-1",
         "slide-2"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": true,
@@ -282,7 +236,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Kein_Titel_240_x_240_px_10_1.png",
-            "logo_width": 120,
+            "logo_width": 80,
             "link": ""
           }
         },
@@ -302,7 +256,6 @@
         "logo_R4jPwY"
       ],
       "custom_css": [],
-      "name": "Logo list",
       "settings": {
         "full_width": true,
         "stack_mobile": true,
@@ -325,7 +278,7 @@
         "heading_m4M6p6": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir les gummies Ovaïa ?",
+            "text": "Pourquoi choisir la Lime Électrique Scholl Derma ?",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -338,7 +291,6 @@
       "custom_css": [
         ".section-full {padding-top: 0px; padding-bottom: 10px;}"
       ],
-      "name": "Rich text",
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -350,12 +302,13 @@
     },
     "image_with_text_overlay_hNAfRB": {
       "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/bienfaits_ordi_1_14d6db51-3eff-4c77-b43d-4b66761a261e.png",
+        "mobile_image": "shopify://shop_images/bienfaits.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -369,7 +322,7 @@
         "image_7Dfg96": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_7722.jpg",
+            "image": "shopify://shop_images/Design_ohne_Titel_7_1.gif",
             "media_width": 35,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
@@ -377,7 +330,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "",
-            "content": "<h3><strong>Le SEUL appareil anti-callosités dont vous aurez jamais besoin.</strong></h3><p></p><p>✔️ <strong>Des pieds lisses dès la première utilisation</strong><br/><br/>✔️ <strong>Économisez du temps, de l’argent et de l’énergie — pour de bon</strong><br/><br/>✔️ <strong>Retrouvez enfin le plaisir de marcher pieds nus en toute confiance</strong></p>",
+            "content": "<h3><strong>Le SEUL appareil anti-callosités dont vous aurez jamais besoin.</strong></h3><p>Fini les râpes douloureuses et les talons secs !</p><p><strong>Scholl Derma Pro élimine la corne en douceur, de manière hygiénique et visiblement efficace — directement chez vous.</strong></p><p>✔️ <strong>Des pieds lisses dès la première utilisation</strong><br/><br/>✔️ <strong>Économisez du temps, de l’argent et de l’énergie — pour de bon</strong><br/><br/>✔️ <strong>Retrouvez enfin le plaisir de marcher pieds nus en toute confiance</strong></p>",
             "link_text": "",
             "link_url": "",
             "background": "#fcdae0",
@@ -392,7 +345,6 @@
       "block_order": [
         "image_7Dfg96"
       ],
-      "name": "Media with text",
       "settings": {
         "full_width": false,
         "spacing": "small"
@@ -404,15 +356,15 @@
         "image_YPMCeG": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Shot_18_3680_F_SM_1100x_6a5dfc3d-537b-4667-8a4a-fb155cd852f7.jpg",
-            "media_width": 35,
+            "image": "shopify://shop_images/Design_ohne_Titel_6_2.gif",
+            "media_width": 30,
             "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "",
-            "content": "<h5>\"Aucune gène, aucune odeur, juste le confort et la sérénité chaque jour\"</h5>",
+            "title": "Avant / Après avec Scholl Derma Pro",
+            "content": "<h5>Ne cachez plus jamais vos pieds. Prenez confiance en vous avec Scholl Derma Pro, une seule fois suffit pour ne plus vous en passer.</h5>",
             "link_text": "",
             "link_url": "",
             "background": "#fcdae0",
@@ -427,7 +379,6 @@
       "block_order": [
         "image_YPMCeG"
       ],
-      "name": "Media with text",
       "settings": {
         "full_width": false,
         "spacing": "small"
@@ -488,6 +439,12 @@
           "disabled": true,
           "settings": {}
         },
+        "kaching_bundles_app_block_dYBccx": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "countdown_timer_essential_app_block_FRMeRJ": {
           "type": "shopify://apps/countdown-timer-essential/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
           "disabled": true,
@@ -521,11 +478,11 @@
         "description_QEGK6V",
         "variant_picker_qT9BAC",
         "quantity_selector_y9FPCg",
+        "kaching_bundles_app_block_dYBccx",
         "countdown_timer_essential_app_block_FRMeRJ",
         "buy_buttons_MVxw9r",
         "pickup_availability_ncc8AC"
       ],
-      "name": "Featured product",
       "settings": {
         "full_width": true,
         "product": "schollderma-pro-avec-60-coussinets-de-glissement-gratuits",
@@ -646,6 +603,8 @@
         "subheading": "",
         "title": "Avant/Après",
         "content": "<p><strong>ShcollDerma Pro</strong> élimine même les callosités les plus tenaces en quelques minutes – en douceur, sans douleur, et directement depuis chez vous.<br/></p><h2><strong>95 %</strong></h2><p>ont constaté une amélioration visible de la texture de leur peau dès la première utilisation.</p><p></p><h2><strong>100 %</strong></h2><p>affirment avoir des pieds plus doux et souples, sans zones rugueuses ni sécheresse.</p><p></p><h2><strong>99 %</strong></h2><p>utilisent ShcollDerma régulièrement car il élimine la corne efficacement tout en améliorant leur bien-être au quotidien.<br/></p>",
+        "before_image": "shopify://shop_images/image.webp",
+        "after_image": "shopify://shop_images/1image.webp",
         "expand_image": false,
         "text_position": "start",
         "before_after_text_position": "bottom",
@@ -844,12 +803,13 @@
     },
     "image_with_text_overlay_QLVCEq": {
       "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/table_compare.png",
+        "mobile_image": "shopify://shop_images/table_mobile.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -1223,6 +1183,23 @@
     },
     "17493421910f80ce8c": {
       "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_agg_section_qCWmwL": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "hide_thumbnails": false,
+            "product_handle": "",
+            "aggregated": true,
+            "data-limit": 8,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_agg_section_qCWmwL"
+      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -1324,7 +1301,6 @@
   },
   "order": [
     "rich_text_GReJfD",
-    "video_XCzaB4",
     "slideshow",
     "image-link-blocks",
     "scrolling-text",
