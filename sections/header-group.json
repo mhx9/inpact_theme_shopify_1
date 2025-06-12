@@ -54,7 +54,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#698a93",
+        "background": "#244c86",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -64,6 +64,7 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
+        "logo": "shopify://shop_images/Votre_texte_de_paragraphe.png",
         "logo_max_width": 200,
         "logo_mobile_max_width": 125,
         "menu": "main-menu",
