@@ -439,12 +439,6 @@
           "disabled": true,
           "settings": {}
         },
-        "kaching_bundles_app_block_dYBccx": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
         "countdown_timer_essential_app_block_FRMeRJ": {
           "type": "shopify://apps/countdown-timer-essential/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
           "disabled": true,
@@ -478,7 +472,6 @@
         "description_QEGK6V",
         "variant_picker_qT9BAC",
         "quantity_selector_y9FPCg",
-        "kaching_bundles_app_block_dYBccx",
         "countdown_timer_essential_app_block_FRMeRJ",
         "buy_buttons_MVxw9r",
         "pickup_availability_ncc8AC"
@@ -796,13 +789,13 @@
         "button_radius": 8,
         "button_border_thickness": 1,
         "button_style": "outline",
-        "button_color": "#FFFFFF",
+        "button_color": "#ffffff",
         "button_hover_color": "#000000",
         "button_bg_color": "#000000",
-        "button_bg_hover_color": "#FFFFFF",
+        "button_bg_hover_color": "#ffffff",
         "button_border_color": "#000000",
         "button_border_hover_color": "#000000",
-        "card_bg_color": "#FFFFFF",
+        "card_bg_color": "#ffffff",
         "card_border_color": "#000000",
         "card_heading_color": "#000000",
         "card_text_color": "#000000",
@@ -810,10 +803,10 @@
         "view_color": "#000000",
         "heading_color": "#000000",
         "rating_text_color": "#000000",
-        "stars_bg_color": "#00B67A",
-        "stars_color": "#FFFFFF",
+        "stars_bg_color": "#00b67a",
+        "stars_color": "#ffffff",
         "text_color": "#000000",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
@@ -838,7 +831,7 @@
             "column_size": "4",
             "title": "Clara F.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>En quelques minutes, mes talons sont devenus tout doux, comme après un soin en institut. Je l’utilise une fois par semaine et mes pieds sont nickel. Je recommande à 100 % !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -851,7 +844,7 @@
             "column_size": "4",
             "title": "Nathalie B.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Je suis totalement ravie ! En été, je porte souvent des sandales et mes pieds doivent avoir l’air soignés. Avec DermaGlide Pro, c’est enfin possible sans trop d’effort et le résultat dure vraiment longtemps !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -864,7 +857,7 @@
             "column_size": "4",
             "title": "Valérie P.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>J’avais les talons très secs et rugueux, mais après la deuxième utilisation, tout était super lisse. Et ça ne fait pas mal, au contraire, c’est même agréable.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -877,7 +870,7 @@
             "column_size": "4",
             "title": "Ines G.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Pratique, hygiénique, et sans douleur. C’est devenu un indispensable dans ma routine beauté.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
