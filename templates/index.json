@@ -836,7 +836,7 @@
           "settings": {
             "image": "shopify://shop_images/2Feet.jpg",
             "column_size": "4",
-            "title": "Alice F.",
+            "title": "Clara F.",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
@@ -849,7 +849,7 @@
           "settings": {
             "image": "shopify://shop_images/avis_client_3.jpg",
             "column_size": "4",
-            "title": "Clara B.",
+            "title": "Nathalie B.",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
