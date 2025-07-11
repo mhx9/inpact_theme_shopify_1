@@ -26,7 +26,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/homepagebannerleonie_1.jpg",
+            "image": "shopify://shop_images/homepagebannerleonie_1_0f968f9c-4730-4e51-843a-fa70ae761549.jpg",
             "mobile_image": "shopify://shop_images/homepagebannerleonie_1.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
@@ -48,8 +48,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/fond_titre_ordi_1.png",
-            "mobile_image": "shopify://shop_images/Photo_groupe_ami_1.png",
+            "image": "shopify://shop_images/homepagebannerleonie_1_0f968f9c-4730-4e51-843a-fa70ae761549.jpg",
+            "mobile_image": "shopify://shop_images/homepagebannerleonie_1_f9a250f9-b75e-462a-926d-b9700cff28c3.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
