@@ -14,6 +14,7 @@
       "blocks": {
         "vendor": {
           "type": "vendor",
+          "disabled": true,
           "settings": {}
         },
         "liquid_TdgDXa": {
@@ -39,6 +40,10 @@
           "settings": {
             "liquid": "<div style=\"display: flex; align-items: center; gap: 6px; margin-top: 8px;\">\n  <div style=\"color: #6a1b41; font-size: 16px;\">\n    ★★★★★\n  </div>\n  <span style=\"color: #2c2c2c; font-size: 15px;\">\n    20,000+ Clientes satisfaites\n  </span>\n</div>"
           }
+        },
+        "separator_UNR68B": {
+          "type": "separator",
+          "settings": {}
         },
         "badges": {
           "type": "badges",
@@ -106,6 +111,7 @@
         "title",
         "liquid_N4G9xP",
         "liquid_mqBhNb",
+        "separator_UNR68B",
         "badges",
         "price",
         "rating",
