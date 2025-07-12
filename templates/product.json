@@ -135,10 +135,28 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "image_with_text_overlay_Fe4JgC": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Capture_d_ecran_2025-07-12_014130.png",
+        "mobile_image": "shopify://shop_images/371eca98-4da0-4fe8-9054-80849cfae4aa.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
     }
   },
   "order": [
     "main",
-    "related-products"
+    "related-products",
+    "image_with_text_overlay_Fe4JgC"
   ]
 }
