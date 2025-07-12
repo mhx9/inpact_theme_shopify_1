@@ -62,6 +62,14 @@
             "size_chart_page": ""
           }
         },
+        "size_chart_mp_dropdown_button_ExKD3a": {
+          "type": "shopify://apps/size-chart/blocks/mp-dropdown-button/305100b1-3599-492a-a54d-54f196ff1f94",
+          "settings": {}
+        },
+        "size_chart_mp_inline_button_eAJhV4": {
+          "type": "shopify://apps/size-chart/blocks/mp-inline-button/305100b1-3599-492a-a54d-54f196ff1f94",
+          "settings": {}
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
@@ -88,6 +96,8 @@
         "separator",
         "description",
         "variant_picker",
+        "size_chart_mp_dropdown_button_ExKD3a",
+        "size_chart_mp_inline_button_eAJhV4",
         "quantity_selector",
         "buy_buttons"
       ],
