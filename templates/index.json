@@ -461,6 +461,41 @@
         "product_card_text_color": ""
       }
     },
+    "media_modif_mpjpF3": {
+      "type": "media-modif",
+      "blocks": {
+        "image_aAjhVi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/section2_bd2f4c78-fcb5-429f-8393-de96cccf8975.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "",
+            "content": "<p><em>Push-up et Confortable</em></p><h2>Une silhouette <em>galbée dès que vous l'enfilez !</em></h2><p>En plus de son confort absolu, notre <strong>legging 3D offre un effet sculptant immédiat</strong>.<br/>Sa coupe gainante affine les jambes, tandis que le plissé discret à l’arrière réhausse et galbe naturellement les fesses, pour une silhouette instantanément plus harmonieuse et plus sexy.<br/>Chez Ovaïa, on ne vous promet pas seulement des résultats visibles à long terme, on vous fait vous sentir belle dès la première seconde.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_aAjhVi"
+      ],
+      "name": "Media with text mod",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
     "before-after-image": {
       "type": "before-after-image",
       "settings": {
@@ -900,6 +935,7 @@
     "featured_product_MXYQBL",
     "collection-list",
     "featured-collection",
+    "media_modif_mpjpF3",
     "before-after-image",
     "impact-text",
     "image-with-text-overlay",
