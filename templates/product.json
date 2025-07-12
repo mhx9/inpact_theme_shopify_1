@@ -25,7 +25,7 @@
         "liquid_TdgDXa": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"display: flex; align-items: center; margin-top: 20px;\">\n  <img src=\"{{ 'ef4ef54e-cf97-4c7b-9dc2-ef4af1d3dcc9.png' | file_url }}\" alt=\"badge innovation\" style=\"width: 20px; height: 20px; margin-right: 8px;\" />\n  <span style=\"font-weight: 500; color: #2c2c2c; font-size: 16px;\">\n    Innovation Primée 2025 - Anti-cellulite\n  </span>\n</div>"
+            "liquid": "<div style=\"text-transform: uppercase; font-weight: 700; font-style: italic; color: #6a1b41; font-size: 14px; margin-bottom: 4px;\">\n  DRAINANT - PUSH-UP\n</div>"
           }
         },
         "badges": {
