@@ -188,6 +188,41 @@
         "overlay_opacity": 0
       }
     },
+    "media_modif_8jdgKq": {
+      "type": "media-modif",
+      "blocks": {
+        "image_cEmcGL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/gempages_559621678087275640-3ccac5a3-8481-47a3-9b7b-8cc4602e8ca1.gif",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p><em>RÉVOLUTION</em></p><h2>Le legging 3D anti-cellulite <em>nouvelle génération !</em></h2><p>Chez <strong>OVAÏA</strong>, on ne fait pas que sublimer votre silhouette, on draine, on galbe et sculpte votre corps. Grâce à sa technologie 3D drainante et sa compression douce ciblé, notre legging stimule votre circulation sanguine et réduit votre cellulite.<br/><em><strong>Résultats : des jambes plus fermes, une peau plus lisse, une silhouette visiblement plus sexy.</strong></em></p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#f2f2f2",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_cEmcGL"
+      ],
+      "name": "Media with text mod",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
     "media_with_text_TWDNip": {
       "type": "media-with-text",
       "blocks": {
@@ -202,7 +237,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "",
-            "content": "",
+            "content": "<p><em>RÉVOLUTION</em></p><h2>Le legging 3D anti-cellulite <em>nouvelle génération !</em></h2><p>Chez <strong>OVAÏA</strong>, on ne fait pas que sublimer votre silhouette, on draine, on galbe et sculpte votre corps. Grâce à sa technologie 3D drainante et sa compression douce ciblé, notre legging stimule votre circulation sanguine et réduit votre cellulite.<br/><em><strong>Résultats : des jambes plus fermes, une peau plus lisse, une silhouette visiblement plus sexy.</strong></em></p>",
             "link_text": "",
             "link_url": "",
             "background": "#fcdae0",
@@ -928,6 +963,7 @@
     "logo_list_XiFDfh",
     "rich_text_H3cQM3",
     "image_with_text_overlay_hNAfRB",
+    "media_modif_8jdgKq",
     "media_with_text_TWDNip",
     "media_with_text_WH4Fg6",
     "featured_collection_nEDxK4",
