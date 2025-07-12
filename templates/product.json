@@ -16,16 +16,22 @@
           "type": "vendor",
           "settings": {}
         },
+        "liquid_TdgDXa": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"text-transform: uppercase; font-weight: 700; font-style: italic; color: #6a1b41; font-size: 14px; margin-bottom: 4px;\">\n  DRAINANT - PUSH-UP\n</div>"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
             "heading_tag": "h2"
           }
         },
-        "liquid_TdgDXa": {
+        "liquid_mqBhNb": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"text-transform: uppercase; font-weight: 700; font-style: italic; color: #6a1b41; font-size: 14px; margin-bottom: 4px;\">\n  DRAINANT - PUSH-UP\n</div>"
+            "liquid": "<div style=\"display: flex; align-items: center; gap: 6px; margin-top: 8px;\">\n  <div style=\"color: #6a1b41; font-size: 16px;\">\n    ★★★★★\n  </div>\n  <span style=\"color: #2c2c2c; font-size: 15px;\">\n    20,000+ Clientes satisfaites\n  </span>\n</div>"
           }
         },
         "badges": {
@@ -90,8 +96,9 @@
       },
       "block_order": [
         "vendor",
-        "title",
         "liquid_TdgDXa",
+        "title",
+        "liquid_mqBhNb",
         "badges",
         "price",
         "rating",
