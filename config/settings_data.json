@@ -45,6 +45,11 @@
         "type": "shopify://apps/countdown-timer-essential/blocks/app_embed/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
         "disabled": false,
         "settings": {}
+      },
+      "7241659924025436803": {
+        "type": "shopify://apps/size-chart/blocks/app-embed/305100b1-3599-492a-a54d-54f196ff1f94",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
