@@ -93,12 +93,6 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "liquid_F7gjth": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .promo-banner {\n    border-top: 3px solid #6a1b41;\n    border-bottom: 3px solid #6a1b41;\n    text-align: center;\n    padding: 10px 0;\n    font-weight: bold;\n    color: #6a1b41;\n    font-size: 20px;\n    margin-bottom: 10px;\n  }\n\n  .promo-carousel {\n    display: flex;\n    overflow-x: auto;\n    scroll-behavior: smooth;\n    gap: 8px;\n    margin-bottom: 12px;\n  }\n\n  .promo-carousel::-webkit-scrollbar {\n    display: none;\n  }\n\n  .promo-carousel img {\n    width: 100%;\n    max-width: 400px;\n    border-radius: 8px;\n  }\n\n  .promo-offer {\n    background: #f6f6f6;\n    padding: 20px;\n    border-radius: 12px;\n    margin-bottom: 15px;\n    text-align: center;\n  }\n\n  .promo-offer h2 {\n    color: #6a1b41;\n    font-size: 26px;\n    margin: 0 0 10px;\n    font-weight: 800;\n  }\n\n  .promo-offer .discount {\n    font-size: 40px;\n    color: #6a1b41;\n    font-weight: 900;\n  }\n\n  .promo-offer .details {\n    font-size: 16px;\n    margin-top: 10px;\n  }\n\n  .promo-icons {\n    display: flex;\n    justify-content: center;\n    gap: 40px;\n    margin-top: 12px;\n    font-size: 14px;\n    color: #333;\n    text-align: center;\n  }\n\n  .promo-icons img {\n    width: 20px;\n    margin-right: 8px;\n    vertical-align: middle;\n  }\n</style>\n\n<div class=\"promo-banner\">2ÈME DÉMARQUE*</div>\n\n<div class=\"promo-carousel\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0899/6821/4343/files/legging3dcote_b0ff5892-e479-40dc-ae9d-8bca9d5cc620.webp?v=1752260500\" alt=\"Promo 1\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0899/6821/4343/files/section1_cd6765ce-d458-40b8-acd3-113d3631411a.webp?v=1752260776\" alt=\"Promo 1\">\n</div>\n\n<div class=\"promo-offer\">\n  <h2>-60% SUR 2 LEGGINGS</h2>\n  <div class=\"discount\">47,90€ <del>119,80€</del></div>\n  <p class=\"details\">*Ajoutez 2 leggings à votre panier et bénéficiez automatiquement des -60% !</p>\n</div>\n\n<div class=\"promo-icons\">\n  <div>\n    <img src=\"https://img.icons8.com/ios-filled/50/000000/delivery.png\"/>\n    <br><strong>Livraison OFFERTE</strong><br><small>Colissimo</small>\n  </div>\n  <div>\n    <img src=\"https://img.icons8.com/ios-filled/50/000000/lock--v1.png\"/>\n    <br><strong>Paiement Sécurisé</strong><br><small>CB, Paypal</small>\n  </div>\n</div>"
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -127,7 +121,6 @@
         "variant_picker",
         "size_chart_mp_inline_button_EJMkDX",
         "quantity_selector",
-        "liquid_F7gjth",
         "buy_buttons"
       ],
       "settings": {
