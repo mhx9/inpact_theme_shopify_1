@@ -498,6 +498,7 @@
     },
     "before-after-image": {
       "type": "before-after-image",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "subheading": "",
@@ -599,6 +600,7 @@
     },
     "review_truspilot_PdArGD": {
       "type": "review_truspilot",
+      "disabled": true,
       "name": "SS - Testimonial #16",
       "settings": {
         "content_align": "center",
@@ -790,6 +792,7 @@
         "item_UNMhgC",
         "item_7XKCEP"
       ],
+      "disabled": true,
       "custom_css": [
         ".section-full {padding-top: 0px;}"
       ],
@@ -825,6 +828,7 @@
     },
     "17493421910f80ce8c": {
       "type": "apps",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -901,6 +905,7 @@
         "item_JcfQdm",
         "item_qiyTBi"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "subheading": "",

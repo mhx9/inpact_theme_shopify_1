@@ -19,7 +19,7 @@
     "text_color": "#1a1a1a",
     "header_background": "#ffffff",
     "header_text_color": "#000000",
-    "footer_background": "#ff9eb2",
+    "footer_background": "#ffffff",
     "footer_text_color": "#1a1a1a",
     "primary_button_background": "#07de5c",
     "primary_button_text_color": "#ffffff",
@@ -41,11 +41,6 @@
     "checkout_button_color": "#1a1a1a",
     "content_for_index": [],
     "blocks": {
-      "12657775114333427046": {
-        "type": "shopify://apps/countdown-timer-essential/blocks/app_embed/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
-        "disabled": false,
-        "settings": {}
-      },
       "7241659924025436803": {
         "type": "shopify://apps/size-chart/blocks/app-embed/305100b1-3599-492a-a54d-54f196ff1f94",
         "disabled": false,
