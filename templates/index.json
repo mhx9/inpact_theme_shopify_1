@@ -467,6 +467,41 @@
         "image_aAjhVi": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/section1.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "",
+            "content": "<p><em>Technologie innovante</em></p><h2>Un legging qui <em>draine et sculpte votre silhouette !</em></h2><p>Grâce à sa <strong>technologie 3D drainante</strong>, notre legging stimule la circulation sanguine à chaque mouvement, aidant votre corps à réduire naturellement la cellulite. Associée à une compression douce et ciblée, cette action affine la silhouette, tonifie les jambes et améliore visiblement la texture de la peau.<br/>Le tout est conçu dans un tissu extensible, respirant et ultra-doux, qui offre un maintien confortable, idéal pour vous accompagner du matin au soir sans jamais vous gêner.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_aAjhVi"
+      ],
+      "name": "Media with text mod",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "media_modif_DRjC3X": {
+      "type": "media-modif",
+      "blocks": {
+        "image_HePgz4": {
+          "type": "image",
+          "settings": {
             "image": "shopify://shop_images/section2_bd2f4c78-fcb5-429f-8393-de96cccf8975.webp",
             "media_width": 50,
             "media_position": "start",
@@ -488,7 +523,7 @@
         }
       },
       "block_order": [
-        "image_aAjhVi"
+        "image_HePgz4"
       ],
       "name": "Media with text mod",
       "settings": {
@@ -941,6 +976,7 @@
     "collection-list",
     "featured-collection",
     "media_modif_mpjpF3",
+    "media_modif_DRjC3X",
     "before-after-image",
     "impact-text",
     "image-with-text-overlay",
