@@ -323,13 +323,13 @@
         "button_radius": 8,
         "button_border_thickness": 1,
         "button_style": "outline",
-        "button_color": "#FFFFFF",
+        "button_color": "#ffffff",
         "button_hover_color": "#000000",
         "button_bg_color": "#000000",
-        "button_bg_hover_color": "#FFFFFF",
+        "button_bg_hover_color": "#ffffff",
         "button_border_color": "#000000",
         "button_border_hover_color": "#000000",
-        "card_bg_color": "#FFFFFF",
+        "card_bg_color": "#ffffff",
         "card_border_color": "#000000",
         "card_heading_color": "#000000",
         "card_text_color": "#000000",
@@ -337,10 +337,10 @@
         "view_color": "#000000",
         "heading_color": "#000000",
         "rating_text_color": "#000000",
-        "stars_bg_color": "#00B67A",
-        "stars_color": "#FFFFFF",
+        "stars_bg_color": "#00b67a",
+        "stars_color": "#ffffff",
         "text_color": "#000000",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
@@ -353,6 +353,68 @@
         "content_width": 120,
         "border_thickness": 0,
         "lazy": true
+      }
+    },
+    "multi_column_9PqHTf": {
+      "type": "multi-column",
+      "blocks": {
+        "item_Gaxjk8": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Laura P.",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_zbGtm6": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Alice F.",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_QDdCnD": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Christelle B.",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_Gaxjk8",
+        "item_zbGtm6",
+        "item_QDdCnD"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 0px;}"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "image_with_text_overlay_Fe4JgC": {
@@ -378,6 +440,7 @@
     "faq_9C4VWP",
     "related-products",
     "review_truspilot_kNdFz4",
+    "multi_column_9PqHTf",
     "image_with_text_overlay_Fe4JgC"
   ]
 }
