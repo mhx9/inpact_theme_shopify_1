@@ -237,7 +237,7 @@
       "settings": {
         "content_align": "center",
         "content_align_mobile": "center",
-        "heading": "Elles ont validé Leonie, et vous ?",
+        "heading": "Elles ont validé OvaÏa, et vous ?",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
         "heading_size": 40,
@@ -368,7 +368,8 @@
         "item_Gaxjk8": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "image": "shopify://shop_images/before_after_600x600_98983263-6b7f-4173-ba96-d8b528ab958c.webp",
+            "column_size": "4",
             "title": "Laura P.",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -380,7 +381,8 @@
         "item_zbGtm6": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "image": "shopify://shop_images/Cellublue-ces-avant-apres-qui-donne-envie-de-se-ruer-sur-les-ventouses.webp",
+            "column_size": "4",
             "title": "Alice F.",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -392,8 +394,22 @@
         "item_QDdCnD": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "image": "shopify://shop_images/d1b68b0477653500a41f5381e700e479.jpg",
+            "column_size": "4",
             "title": "Christelle B.",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_piDgiy": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Cellulite_reduction_testimonial_2.png",
+            "column_size": "4",
+            "title": "Emma M.",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
@@ -405,7 +421,8 @@
       "block_order": [
         "item_Gaxjk8",
         "item_zbGtm6",
-        "item_QDdCnD"
+        "item_QDdCnD",
+        "item_piDgiy"
       ],
       "custom_css": [
         ".section-full {padding-top: 0px;}"
