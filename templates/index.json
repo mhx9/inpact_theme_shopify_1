@@ -849,13 +849,13 @@
       "type": "text-with-style",
       "name": "Bloc Texte Avancé",
       "settings": {
-        "title": "",
-        "subtitle": "<h1><strong>Préservez votre jardin secret des regards indiscrets !</strong></h1>",
+        "title": "Préservez votre jardin secret des regards indiscrets !",
+        "subtitle": "",
         "content": "<p>Grâce à notre technologie <strong>Cameltoe-Blocking</strong> et à un design sans couture, profitez d'un confort absolu et d'une discrétion parfaite sous tous vos leggings.<br/>Confiance et sérénité garanties à chaque tenue !</p>",
-        "title_color": "#000000",
+        "title_color": "#772647",
         "title_font": "'Montserrat', sans-serif",
         "subtitle_color": "#772647",
-        "text_color": "#555555",
+        "text_color": "#000000",
         "background_color": "#ffffff",
         "padding_top": 50,
         "padding_bottom": 50
