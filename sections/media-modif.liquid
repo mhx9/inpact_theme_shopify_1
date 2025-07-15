@@ -12,6 +12,18 @@ CSS
     --media-with-text-item-grid-template: "media" "content" / auto;
   }
 
+  /* Nouveau style pour les textes en italique */
+  #shopify-section-{{ section.id }} em,
+  #shopify-section-{{ section.id }} i {
+    color: #772647;
+    font-style: italic;
+  }
+
+  /* Style pour les autres textes */
+  #shopify-section-{{ section.id }} {
+    color: #000000;
+  }
+
   @media screen and (min-width: 1000px) {
     #shopify-section-{{ section.id }} {
       --media-with-text-gap: {% if section.settings.spacing == 'none' %}0{% elsif section.settings.spacing == 'small' %}var(--spacing-6){% elsif section.settings.spacing == 'medium' %}var(--spacing-12){% else %}var(--spacing-18){% endif %};
@@ -32,27 +44,6 @@ CSS
       }
     }
   {%- endfor -%}
-    /* ======= AJOUT PERSONNALISÉ ======= */
-  #shopify-section-{{ section.id }} .media-with-text__content .prose {
-    font-family: 'Playfair Display', serif;
-    color: #1a0e2a;
-    font-size: 16px;
-    line-height: 1.6;
-  }
-
-  #shopify-section-{{ section.id }} .media-with-text__content .prose p {
-    margin-bottom: 1em;
-  }
-
-  #shopify-section-{{ section.id }} .media-with-text__content .prose em {
-    font-style: italic;
-    color: #6a1b41;
-  }
-
-  #shopify-section-{{ section.id }} .media-with-text__content .prose strong {
-    font-weight: 700;
-    color: #000000;
-  }
 </style>
 
 {%- comment -%}
@@ -153,7 +144,7 @@ LIQUID
 
 {% schema %}
 {
-  "name": "Media with text mod",
+  "name": "Media with text",
   "class": "shopify-section--media-with-text",
   "tag": "section",
   "disabled_on": {
@@ -1075,7 +1066,7 @@ LIQUID
   ],
   "presets": [
     {
-      "name": "Media with text mod",
+      "name": "Media with text",
       "blocks": [
         {
           "type": "image"
