@@ -845,6 +845,32 @@
         "text_color": ""
       }
     },
+    "featured_collection_FhyQ4M": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "nos-tangas-anti-cameltoe",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Nos Tangas Anti Cameltoe",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "image_with_text_overlay_QLVCEq": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -982,6 +1008,7 @@
     "image-with-text-overlay",
     "review_truspilot_PdArGD",
     "multi_column_eYDcQQ",
+    "featured_collection_FhyQ4M",
     "image_with_text_overlay_QLVCEq",
     "17493421910f80ce8c",
     "faq"
