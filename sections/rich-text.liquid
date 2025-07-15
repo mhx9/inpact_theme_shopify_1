@@ -3,7 +3,19 @@
 
   <style>
     #shopify-section-{{ section.id }} {
-      --rich-text-max-width: {% if section.settings.content_width == 'small' %}650px{% elsif section.settings.content_width == 'medium' %}780px{% else %}100%{% endif %}
+      --rich-text-max-width: {% if section.settings.content_width == 'small' %}650px{% elsif section.settings.content_width == 'medium' %}780px{% else %}100%{% endif %};
+    }
+
+    /* Nouveau style pour les textes en italique */
+    #shopify-section-{{ section.id }} em,
+    #shopify-section-{{ section.id }} i {
+      color: #772647;
+      font-style: italic;
+    }
+
+    /* Style pour les autres textes */
+    #shopify-section-{{ section.id }} {
+      color: #000000;
     }
   </style>
 
