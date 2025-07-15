@@ -416,13 +416,69 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_emMHFT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/505902200_122137799720774815_3252139540598708567_n_3d91f6d3-f691-47e9-ade9-0622e5d5cc75.jpg",
+            "column_size": "4",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Ke9Ge7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/8sjO4AhTx28.jpg",
+            "column_size": "4",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_9iNMLm": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/BLGiNwrGfD.jpg",
+            "column_size": "4",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_RhJq9P": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1748053141__0__8RRZOQA3__Q8eqTMUU5_mid__original.avif",
+            "column_size": "4",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_Gaxjk8",
         "item_zbGtm6",
         "item_QDdCnD",
-        "item_piDgiy"
+        "item_piDgiy",
+        "item_emMHFT",
+        "item_Ke9Ge7",
+        "item_9iNMLm",
+        "item_RhJq9P"
       ],
       "custom_css": [
         ".section-full {padding-top: 0px;}"
