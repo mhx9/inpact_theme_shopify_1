@@ -1,6 +1,169 @@
 {% schema %}
-  {
-    "name": "Section name",
-    "settings": []
-  }
+{
+  "name": "Bloc Texte Avancé",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Titre",
+      "default": "CONFORT & DISCRÉTION"
+    },
+    {
+      "type": "richtext",
+      "id": "subtitle",
+      "label": "Sous-titre",
+      "default": "<p>Préservez votre jardin secret des regards indiscrets !</p>"
+    },
+    {
+      "type": "richtext",
+      "id": "content",
+      "label": "Contenu",
+      "default": "<p>Grâce à notre technologie <strong>Cameltoe-Blocking</strong> et à un design sans couture, profitez d'un confort absolu et d'une discrétion parfaite sous tous vos leggings.<br>Confiance et sérénité garanties à chaque tenue !</p>"
+    },
+    {
+      "type": "header",
+      "content": "Style"
+    },
+    {
+      "type": "color",
+      "id": "title_color",
+      "label": "Couleur du titre",
+      "default": "#000000"
+    },
+    {
+      "type": "select",
+      "id": "title_font",
+      "label": "Police du titre",
+      "options": [
+        {
+          "value": "font-heading",
+          "label": "Titres du thème"
+        },
+        {
+          "value": "font-body",
+          "label": "Corps du thème"
+        },
+        {
+          "value": "'Helvetica Neue', sans-serif",
+          "label": "Helvetica"
+        },
+        {
+          "value": "'Times New Roman', serif",
+          "label": "Times New Roman"
+        },
+        {
+          "value": "'Montserrat', sans-serif",
+          "label": "Montserrat"
+        }
+      ],
+      "default": "'Helvetica Neue', sans-serif"
+    },
+    {
+      "type": "color",
+      "id": "subtitle_color",
+      "label": "Couleur du sous-titre",
+      "default": "#333333"
+    },
+    {
+      "type": "color",
+      "id": "text_color",
+      "label": "Couleur du texte",
+      "default": "#555555"
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "Couleur de fond",
+      "default": "#ffffff"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 5,
+      "unit": "px",
+      "label": "Espacement haut",
+      "default": 50
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 5,
+      "unit": "px",
+      "label": "Espacement bas",
+      "default": 50
+    }
+  ],
+  "presets": [
+    {
+      "name": "Bloc Texte Avancé",
+      "category": "Texte"
+    }
+  ]
+}
 {% endschema %}
+
+<style>
+  .advanced-text-block-{{ section.id }} {
+    background-color: {{ section.settings.background_color }};
+    padding: {{ section.settings.padding_top }}px 20px {{ section.settings.padding_bottom }}px;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .advanced-text-block-{{ section.id }} .text-title {
+    color: {{ section.settings.title_color }};
+    font-family: {{ section.settings.title_font }};
+    font-size: 28px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    line-height: 1.3;
+  }
+  
+  .advanced-text-block-{{ section.id }} .text-subtitle {
+    color: {{ section.settings.subtitle_color }};
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 25px;
+    line-height: 1.5;
+  }
+  
+  .advanced-text-block-{{ section.id }} .text-content {
+    color: {{ section.settings.text_color }};
+    font-size: 16px;
+    line-height: 1.8;
+    margin: 0 auto;
+    max-width: 600px;
+  }
+  
+  .advanced-text-block-{{ section.id }} .text-content strong {
+    font-weight: 700;
+    color: {{ section.settings.title_color }};
+  }
+  
+  @media (max-width: 768px) {
+    .advanced-text-block-{{ section.id }} .text-title {
+      font-size: 24px;
+    }
+    
+    .advanced-text-block-{{ section.id }} .text-subtitle {
+      font-size: 16px;
+    }
+    
+    .advanced-text-block-{{ section.id }} .text-content {
+      font-size: 15px;
+    }
+  }
+</style>
+
+<div class="advanced-text-block-{{ section.id }}">
+  <h2 class="text-title">{{ section.settings.title }}</h2>
+  <div class="text-subtitle">{{ section.settings.subtitle }}</div>
+  <div class="text-content">{{ section.settings.content }}</div>
+</div>
