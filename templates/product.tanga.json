@@ -1,0 +1,470 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {}
+        },
+        "liquid_TdgDXa": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"text-transform: uppercase; font-weight: 700; font-style: italic; color: #6a1b41; font-size: 14px; margin-bottom: 4px;\">\n  DRAINANT - PUSH-UP\n</div>"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "liquid_N4G9xP": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: flex; align-items: center; gap: 8px; margin-top: 10px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0899/6821/4343/files/Capture_d_ecran_2025-07-12_174540.png?v=1752335168\" alt=\"Innovation Primée\" style=\"width: 18px; height: 18px;\">\n  <span style=\"font-size: 15px; color: #2c2c2c;\">\n    Innovation Primée 2025 - Anti-cellulite\n  </span>\n</div>"
+          }
+        },
+        "liquid_mqBhNb": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: flex; align-items: center; gap: 6px; margin-top: 8px;\">\n  <div style=\"color: #6a1b41; font-size: 16px;\">\n    ★★★★★\n  </div>\n  <span style=\"color: #2c2c2c; font-size: 15px;\">\n    20,000+ Clientes satisfaites\n  </span>\n</div>"
+          }
+        },
+        "separator_UNR68B": {
+          "type": "separator",
+          "settings": {}
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": true,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "liquid_jbyHMM": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Dernières pièces en tailles M & L</div>\n</div>"
+          }
+        },
+        "size_chart_mp_inline_button_EJMkDX": {
+          "type": "shopify://apps/size-chart/blocks/mp-inline-button/305100b1-3599-492a-a54d-54f196ff1f94",
+          "settings": {}
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "liquid_TdgDXa",
+        "title",
+        "liquid_N4G9xP",
+        "liquid_mqBhNb",
+        "separator_UNR68B",
+        "badges",
+        "price",
+        "rating",
+        "payment_terms",
+        "separator",
+        "description",
+        "variant_picker",
+        "liquid_jbyHMM",
+        "size_chart_mp_inline_button_EJMkDX",
+        "quantity_selector",
+        "buy_buttons"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": false,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "faq_9C4VWP": {
+      "type": "faq",
+      "blocks": {
+        "item_tYr9ip": {
+          "type": "item",
+          "settings": {
+            "title": "Pourquoi vous allez l'adorer",
+            "content": "<p>Marre de votre cellulite qui résiste à tout ?<br/>Crèmes, massages, soins en institut… et pourtant, rien ne change vraiment.</p><p>C’est exactement pour ça qu’on a conçu notre legging 3D drainant anti-cellulite.</p><p>Inspiré du <strong>drainage lymphatique</strong>, reconnu pour ses effets en santé et en esthétique, notre legging utilise <strong>une technologie de tissage 3D innovant</strong>associée à unecompression doucepour stimuler naturellement la circulation sanguine et le système lymphatique.</p><p>Résultat ? <br/>Chaque mouvement devient un micro-massage discret mais constant, qui aide à réduire l’apparence de la cellulite et à tonifier la peau, jour après jour.</p><p>Et parce que l’efficacité ne doit jamais sacrifier le confort, on l’a conçu dans un textile extensible, respirant et ultra-doux, parfait pour être porté tous les jours, à la maison, au travail ou pendant vos séances de sport.</p><p>Avec le legging 3D drainant de Leonie & Co, profitez d’un soin invisible, intégré à votre quotidien.<br/><br/></p>"
+          }
+        },
+        "item_KYKTad": {
+          "type": "item",
+          "settings": {
+            "title": "Comment le legging 3D m'aide-t-il à éliminer la cellulite ?",
+            "content": "<p>Nos lignes 3D drainantes sont positionnées directement sur les cuisses et les fessiers afin de<strong>stimuler la circulation sanguine et le système lymphatique.</strong>Pourquoi c’est important ?<br/><br/>Parce que la cellulite est directement liée à une mauvaise circulation et à une accumulation de toxines et de graisses sous la peau.<br/><br/>En réactivant naturellement ces flux, le legging favorise un drainage en profondeur et aide le corps à mieux éliminer les toxines et les cellules graisseuses responsables de la cellulite.<br/><br/>Associée à une compression douce et ciblée, cette stimulation quotidienne aide à raffermir les jambes, tonifier la silhouette et lisser la peau de manière progressive et durable.</p>"
+          }
+        },
+        "item_aaM8Dn": {
+          "type": "item",
+          "settings": {
+            "title": "Détails",
+            "content": "<ul><li>Technologie 3D drainante ciblée</li><li>Augmente la circulation sanguine jusqu’à 30 %</li><li>Compression douce : tonifie sans comprimer</li><li>Plissé arrière discret pour un effet push-up naturel</li><li>Matière douce, extensible et respirante pour un confort total</li></ul>"
+          }
+        },
+        "item_LAQhXi": {
+          "type": "item",
+          "settings": {
+            "title": "Livraisons & retours",
+            "content": "<ol><li>Commande<br/>confirmée</li><li>Expédition<br/>en 24h/48h</li><li>Livré chez vous<br/>entre 5 et 7 jours</li></ol><p>Retours :</p><p>- Vous avez <strong>30 jours</strong> pour retourner votre produit s’il ne vous convient pas.</p><p>- Nous proposons un échange ou un remboursement rapide, sans tracas.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_tYr9ip",
+        "item_KYKTad",
+        "item_aaM8Dn",
+        "item_LAQhXi"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "You may also like",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "review_truspilot_kNdFz4": {
+      "type": "review_truspilot",
+      "name": "SS - Testimonial #16",
+      "settings": {
+        "content_align": "center",
+        "content_align_mobile": "center",
+        "heading": "Elles ont validé OvaÏa, et vous ?",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 40,
+        "heading_size_mobile": 24,
+        "heading_height": 130,
+        "rating_text": "Excellent",
+        "rating_text_custom": false,
+        "rating_text_font": "josefin_sans_n4",
+        "rating_text_size": 24,
+        "rating_text_size_mobile": 20,
+        "rating_text_height": 130,
+        "rating_text_mt": 16,
+        "rating_text_mt_mobile": 16,
+        "rating": 4.8,
+        "rating_hide": false,
+        "rating_text_hide": false,
+        "stars_count": 5,
+        "stars_size": 28,
+        "stars_size_mobile": 24,
+        "text": "<p>basé sur +<strong>20,000</strong> reviews</p>",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 20,
+        "text_size_mobile": 16,
+        "text_height": 130,
+        "text_mt": 16,
+        "text_mt_mobile": 16,
+        "scrolling_velocity": 80,
+        "scrolling_velocity_mobile": 100,
+        "reverse_direction": false,
+        "pause_hover": true,
+        "scrolling_mt": 36,
+        "scrolling_mt_mobile": 36,
+        "scrolling_gap": 20,
+        "scrolling_gap_mobile": 20,
+        "card_width": 360,
+        "card_width_mobile": 280,
+        "card_padding_vertical": 36,
+        "card_padding_vertical_mobile": 28,
+        "card_padding_horizontal": 40,
+        "card_padding_horizontal_mobile": 24,
+        "card_radius": 16,
+        "card_border_thickness": 0,
+        "card_shadow_style": "2",
+        "card_content_align": "center",
+        "card_content_align_mobile": "center",
+        "card_height": false,
+        "card_heading_custom": false,
+        "card_heading_font": "josefin_sans_n4",
+        "card_heading_size": 24,
+        "card_heading_size_mobile": 20,
+        "card_heading_height": 130,
+        "card_heading_mt": 16,
+        "card_heading_mt_mobile": 16,
+        "card_text_custom": false,
+        "card_text_font": "josefin_sans_n4",
+        "card_text_size": 14,
+        "card_text_size_mobile": 14,
+        "card_text_height": 150,
+        "card_text_mt": 16,
+        "card_text_mt_mobile": 16,
+        "card_text_more": "View More",
+        "card_text_less": "View Less",
+        "card_count_words": 60,
+        "author_image_size": 56,
+        "author_image_size_mobile": 40,
+        "author_image_position": "inline_text",
+        "card_author_date_text_custom": false,
+        "card_author_date_text_font": "josefin_sans_n4",
+        "card_author_date_text_size": 16,
+        "card_author_date_text_size_mobile": 16,
+        "card_author_date_text_height": 130,
+        "card_author_date_text_mt": 16,
+        "card_author_date_text_mt_mobile": 16,
+        "button": "",
+        "button_url": "",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 16,
+        "button_size_mobile": 14,
+        "button_height": 100,
+        "button_align": "center",
+        "button_align_mobile": "center",
+        "button_mt": 32,
+        "button_mt_mobile": 28,
+        "button_padding_vertical": 16,
+        "button_padding_vertical_mobile": 16,
+        "button_padding_horizontal": 20,
+        "button_padding_horizontal_mobile": 20,
+        "button_radius": 8,
+        "button_border_thickness": 1,
+        "button_style": "outline",
+        "button_color": "#ffffff",
+        "button_hover_color": "#000000",
+        "button_bg_color": "#000000",
+        "button_bg_hover_color": "#ffffff",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "card_bg_color": "#ffffff",
+        "card_border_color": "#000000",
+        "card_heading_color": "#000000",
+        "card_text_color": "#000000",
+        "card_author_date_text_color": "#000000",
+        "view_color": "#000000",
+        "heading_color": "#000000",
+        "rating_text_color": "#000000",
+        "stars_bg_color": "#00b67a",
+        "stars_color": "#ffffff",
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 0,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "multi_column_9PqHTf": {
+      "type": "multi-column",
+      "blocks": {
+        "item_Gaxjk8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/before_after_600x600_98983263-6b7f-4173-ba96-d8b528ab958c.webp",
+            "column_size": "4",
+            "title": "Laura P.",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_zbGtm6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Cellublue-ces-avant-apres-qui-donne-envie-de-se-ruer-sur-les-ventouses.webp",
+            "column_size": "4",
+            "title": "Alice F.",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_QDdCnD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/d1b68b0477653500a41f5381e700e479.jpg",
+            "column_size": "4",
+            "title": "Christelle B.",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_piDgiy": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Cellulite_reduction_testimonial_2.png",
+            "column_size": "4",
+            "title": "Emma M.",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_Gaxjk8",
+        "item_zbGtm6",
+        "item_QDdCnD",
+        "item_piDgiy"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 0px;}"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_Fe4JgC": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Capture_d_ecran_2025-07-12_014130.png",
+        "mobile_image": "shopify://shop_images/371eca98-4da0-4fe8-9054-80849cfae4aa.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "faq_9C4VWP",
+    "related-products",
+    "review_truspilot_kNdFz4",
+    "multi_column_9PqHTf",
+    "image_with_text_overlay_Fe4JgC"
+  ]
+}
