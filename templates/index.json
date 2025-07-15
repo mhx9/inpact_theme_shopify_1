@@ -845,22 +845,6 @@
         "text_color": ""
       }
     },
-    "text_with_style_EUEnze": {
-      "type": "text-with-style",
-      "name": "Bloc Texte Avancé",
-      "settings": {
-        "title": "Préservez votre jardin secret des regards indiscrets !",
-        "subtitle": "",
-        "content": "<p>Grâce à notre technologie <strong>Cameltoe-Blocking</strong> et à un design sans couture, profitez d'un confort absolu et d'une discrétion parfaite sous tous vos leggings.<br/>Confiance et sérénité garanties à chaque tenue !</p>",
-        "title_color": "#772647",
-        "title_font": "'Montserrat', sans-serif",
-        "subtitle_color": "#772647",
-        "text_color": "#000000",
-        "background_color": "#ffffff",
-        "padding_top": 50,
-        "padding_bottom": 50
-      }
-    },
     "rich_text_PGybbT": {
       "type": "rich-text",
       "blocks": {
@@ -1050,7 +1034,6 @@
     "image-with-text-overlay",
     "review_truspilot_PdArGD",
     "multi_column_eYDcQQ",
-    "text_with_style_EUEnze",
     "rich_text_PGybbT",
     "featured_collection_FhyQ4M",
     "image_with_text_overlay_QLVCEq",
