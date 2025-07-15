@@ -450,7 +450,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/Capture_d_ecran_2025-07-12_014130.png",
-        "mobile_image": "shopify://shop_images/371eca98-4da0-4fe8-9054-80849cfae4aa_49cea239-3543-4495-98c8-af66394b686f.jpg",
+        "mobile_image": "shopify://shop_images/mobile_nature_1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
