@@ -845,6 +845,32 @@
         "text_color": ""
       }
     },
+    "rich_text_PGybbT": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_b9R3wn": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><em>CONFORT & DISCRÉTION</em></p><h2>Préservez votre jardin secret des <em>regards indiscrets !</em></h2><p>Grâce à notre technologie<strong> Cameltoe-Blocking</strong> et à un design sans couture, profitez d’un confort absolu et d’une discrétion parfaite sous tous vos leggings. <em><strong>Confiance et sérénité garanties à chaque tenue !</strong></em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_b9R3wn"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 0px; padding-bottom: 10px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured_collection_FhyQ4M": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -1008,6 +1034,7 @@
     "image-with-text-overlay",
     "review_truspilot_PdArGD",
     "multi_column_eYDcQQ",
+    "rich_text_PGybbT",
     "featured_collection_FhyQ4M",
     "image_with_text_overlay_QLVCEq",
     "17493421910f80ce8c",
