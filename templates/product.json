@@ -100,6 +100,12 @@
           "disabled": true,
           "settings": {}
         },
+        "text_BAwjcm": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Ajoutez 2 leggings à votre panier et bénéficiez automatiquement des -60% !</em></p>"
+          }
+        },
         "liquid_wUBR3i": {
           "type": "liquid",
           "settings": {
@@ -141,6 +147,7 @@
         "liquid_jbyHMM",
         "size_chart_mp_inline_button_EJMkDX",
         "quantity_selector",
+        "text_BAwjcm",
         "liquid_wUBR3i",
         "buy_buttons",
         "liquid_feE3bQ"
