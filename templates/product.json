@@ -270,6 +270,7 @@
         "video_6FqWWG": {
           "type": "video",
           "settings": {
+            "video": "shopify://files/videos/7c86a3a5dcb145a7b14f7462b9714aa5.HD-1080p-7.2Mbps-51496676.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "modal_heading": "<h4>Modal Heading</h4>",
             "modal_text": "<p>Modal Text</p>"
