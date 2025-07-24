@@ -465,33 +465,6 @@
         "spacing": "small"
       }
     },
-    "related-products": {
-      "type": "related-products",
-      "settings": {
-        "recommendations_count": 4,
-        "products": [
-          "legging-3d-gris-fonce",
-          "legging-3d-gris",
-          "legging-3d-noir-copie",
-          "legging-3d-rose"
-        ],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "subheading": "",
-        "title": "Vous pourriez aussi aimer",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "review_truspilot_kNdFz4": {
       "type": "review_truspilot",
       "name": "SS - Testimonial #16",
@@ -758,6 +731,33 @@
         "text_color": ""
       }
     },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "recommendations_count": 4,
+        "products": [
+          "legging-3d-gris-fonce",
+          "legging-3d-gris",
+          "legging-3d-noir-copie",
+          "legging-3d-rose"
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "Vous pourriez aussi aimer",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "image_with_text_overlay_Fe4JgC": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -783,9 +783,9 @@
     "ss_product_video_gTz8ip",
     "media_modif_XhU9xX",
     "media_modif_gmdRMp",
-    "related-products",
     "review_truspilot_kNdFz4",
     "multi_column_9PqHTf",
+    "related-products",
     "image_with_text_overlay_Fe4JgC"
   ]
 }
