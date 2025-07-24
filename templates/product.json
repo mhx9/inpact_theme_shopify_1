@@ -261,9 +261,10 @@
         "video_ypGLHn": {
           "type": "video",
           "settings": {
+            "video": "shopify://files/videos/c230e481badb4155a77600e94062eae5.HD-1080p-4.8Mbps-51496665.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "modal_heading": "<h4>Modal Heading</h4>",
-            "modal_text": "<p>Modal Text</p>"
+            "modal_heading": "",
+            "modal_text": ""
           }
         },
         "video_6FqWWG": {
