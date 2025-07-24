@@ -236,13 +236,18 @@
     "related-products": {
       "type": "related-products",
       "settings": {
-        "recommendations_count": 6,
-        "products": [],
+        "recommendations_count": 4,
+        "products": [
+          "legging-3d-gris-fonce",
+          "legging-3d-gris",
+          "legging-3d-noir-copie",
+          "legging-3d-rose"
+        ],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
         "subheading": "",
         "title": "Vous pourriez aussi aimer",
         "content": "",
