@@ -77,6 +77,7 @@
         },
         "variant_picker": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "hide_sold_out_variants": true,
             "stack_blocks": true,
@@ -102,6 +103,7 @@
         },
         "text_BAwjcm": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p><em>Ajoutez 2 leggings à votre panier et bénéficiez automatiquement des -60% !</em></p>"
           }
