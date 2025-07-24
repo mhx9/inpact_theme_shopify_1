@@ -765,39 +765,63 @@
         "item_hNiprf": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Comment fonctionne la technologie 3D des leggings Ovaïa?",
+            "content": "<p>La compression 3D crée une résistance naturelle qui active vos muscles à chaque mouvement. Cette stimulation renforce la tonicité des jambes et aide à réduire la cellulite grâce à une meilleure circulation sanguine.</p>"
           }
         },
         "item_x9GMTT": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Peut-on les porter toute la journée ?",
+            "content": "<p>Oui, les leggings Ovaïa sont conçus pour être portés tout au long de la journée. Leur tissu respirant et ultra-confortable garantit un usage agréable, même pendant plusieurs heures.</p>"
           }
         },
         "item_7JxGwB": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Les leggings sont-ils opaques ?",
+            "content": "<p>Absolument ! Nos leggings offrent une couverture complète, même lors d'étirements ou d'exercices intenses.</p>"
+          }
+        },
+        "item_4T6XXL": {
+          "type": "item",
+          "settings": {
+            "title": "Comment les leggings Ovaïa vous aident à affiner votre silhouette ?",
+            "content": "<p>La compression 3D active d'Ovaïa crée une résistance naturelle à chaque mouvement, sollicitant davantage vos muscles et augmentant ainsi votre dépense calorique. En marchant, en vous entraînant ou même en vaquant à vos occupations quotidiennes, vos jambes travaillent 2 à 3 fois plus, favorisant une combustion accrue des graisses.</p>"
+          }
+        },
+        "item_AYcmTL": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je retourner le produit si je ne suis pas satisfait ?",
+            "content": "<p>Oui, vous disposez de 30 jours pour nous retourner l'article. Nous proposons des échanges ou un remboursement rapide si le produit ne convient pas.</p>"
+          }
+        },
+        "item_iLPbdt": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>Nous préparons votre commande sous 24 heures, et la livraison s’effectue généralement entre 5 et 7 jours ouvrés.</p>"
           }
         }
       },
       "block_order": [
         "item_hNiprf",
         "item_x9GMTT",
-        "item_7JxGwB"
+        "item_7JxGwB",
+        "item_4T6XXL",
+        "item_AYcmTL",
+        "item_iLPbdt"
       ],
       "name": "FAQ",
       "settings": {
         "full_width": true,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "",
+        "subheading": "BESOIN D'AIDE ?",
+        "title": "Vos questions ? Nos réponses !",
+        "content": "<p>Découvrez tout ce que vous devez savoir sur notre produit<br/><br/></p>",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "Notre service client est disponible du lundi au vendredi de 8h à 20h30.",
+        "answer_time": "Temps de réponse moyen : 24h",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
