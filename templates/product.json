@@ -154,9 +154,7 @@
         "buy_buttons",
         "liquid_feE3bQ"
       ],
-      "custom_css": [
-        "@media (min-width: 768px) {.product__media-wrapper {position: sticky; top: 100px; align-self: flex-start; z-index: 2; }}"
-      ],
+      "custom_css": [],
       "settings": {
         "full_width": true,
         "show_fixed_add_to_cart": false,
