@@ -308,7 +308,7 @@
         "icon_position_mobile": "bottom_left",
         "icon_position": "bottom_left",
         "hide_icon": false,
-        "arrow_size": 30,
+        "arrow_size": 35,
         "arrow_size_mobile": 35,
         "arrow_radius": 5,
         "arrow_border_thickness": 0,
