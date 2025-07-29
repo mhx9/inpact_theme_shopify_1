@@ -100,7 +100,7 @@
           "type": "text",
           "settings": {
             "title": "Contáctanos",
-            "content": "<p>Service client : contact@ovaia-france.fr</p>",
+            "content": "<p><strong>Atención al cliente</strong>: <br/>contact@ovaia-france.fr</p>",
             "enable_follow_on_shop": true
           }
         }
