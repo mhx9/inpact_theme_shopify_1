@@ -92,7 +92,7 @@
         "links": {
           "type": "links",
           "settings": {
-            "menu": "footer",
+            "menu": "enlaces-tiles",
             "show_menu_title": true
           }
         },
