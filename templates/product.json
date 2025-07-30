@@ -234,6 +234,41 @@
         "accordion_text_color": ""
       }
     },
+    "media_modif_XhU9xX": {
+      "type": "media-modif",
+      "blocks": {
+        "image_mHTwUH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/keepfitsportswear-3d-sculpting-lines.gif",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "",
+            "content": "<p><em>REVOLUCIÓN</em></p><h2>¡ El legging anticelulitis 3D <em>de nueva generación !</em></h2><p>En <strong>OVAÏA</strong>, no solo realzamos tu figura: drenamos, moldeamos y esculpimos tu cuerpo. Gracias a su tecnología 3D drenante y su compresión suave y localizada, nuestro legging estimula la circulación sanguínea y reduce la celulitis.<br/><em><strong>Resultados: piernas más firmes, piel más lisa y una silueta visiblemente más sexy.</strong></em></p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_mHTwUH"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
     "custom_liquid_greETU": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -396,10 +431,10 @@
         "lazy": true
       }
     },
-    "media_modif_XhU9xX": {
+    "media_modif_BtEyQ3": {
       "type": "media-modif",
       "blocks": {
-        "image_mHTwUH": {
+        "image_aCPpnc": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/section1es_9768edc9-18e6-4eb0-a120-79d142ac5ed1.webp",
@@ -423,7 +458,7 @@
         }
       },
       "block_order": [
-        "image_mHTwUH"
+        "image_aCPpnc"
       ],
       "name": "Media with text",
       "settings": {
@@ -857,9 +892,10 @@
   "order": [
     "main",
     "faq_9C4VWP",
+    "media_modif_XhU9xX",
     "custom_liquid_greETU",
     "ss_product_video_gTz8ip",
-    "media_modif_XhU9xX",
+    "media_modif_BtEyQ3",
     "media_modif_gmdRMp",
     "review_truspilot_kNdFz4",
     "multi_column_9PqHTf",
