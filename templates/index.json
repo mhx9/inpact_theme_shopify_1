@@ -858,6 +858,7 @@
       "block_order": [
         "richtext_b9R3wn"
       ],
+      "disabled": true,
       "custom_css": [
         ".section-full {padding-top: 0px; padding-bottom: 10px;}"
       ],
@@ -873,6 +874,7 @@
     },
     "featured_collection_FhyQ4M": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "Featured collection",
       "settings": {
         "collection": "nos-tangas-anti-cameltoe",
