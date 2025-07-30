@@ -234,6 +234,35 @@
         "accordion_text_color": ""
       }
     },
+    "rich_text_M8LUcT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_w4tdpj": {
+          "type": "heading",
+          "settings": {
+            "text": "Una tecnología 3D innovadora y moldeadora",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_w4tdpj"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 0px; padding-bottom: 10px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media_modif_XhU9xX": {
       "type": "media-modif",
       "blocks": {
@@ -1043,6 +1072,7 @@
   "order": [
     "main",
     "faq_9C4VWP",
+    "rich_text_M8LUcT",
     "media_modif_XhU9xX",
     "review_truspilot_tRYbKe",
     "multi_column_9PqHTf",
