@@ -17,28 +17,28 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "LIVRAISON OFFERTE",
+            "text": "ENVÍO GRATUITO",
             "url": ""
           }
         },
         "message_rAqUpF": {
           "type": "message",
           "settings": {
-            "text": "STOCKS BIENTÔT ÉPUISÉS",
+            "text": "STOCK PRÓXIMO A AGOTARSE",
             "url": ""
           }
         },
         "message_dWLFQt": {
           "type": "message",
           "settings": {
-            "text": "SATISFAIT OU REMBOURSÉ",
+            "text": "SATISFECHO O REEMBOLSADO",
             "url": ""
           }
         },
         "message_zTRbcj": {
           "type": "message",
           "settings": {
-            "text": "OFFRE -50% Aujourd'hui Uniquement",
+            "text": "OFERTA -50 % SOLO POR HOY",
             "url": ""
           }
         }
