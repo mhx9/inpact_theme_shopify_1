@@ -269,6 +269,216 @@
         "spacing": "small"
       }
     },
+    "review_truspilot_tRYbKe": {
+      "type": "review_truspilot",
+      "name": "SS - Testimonial #16",
+      "settings": {
+        "content_align": "center",
+        "content_align_mobile": "center",
+        "heading": "Ellas ya aprobaron OvaÏa, ¿ y tú ?",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 40,
+        "heading_size_mobile": 24,
+        "heading_height": 130,
+        "rating_text": "Excelente",
+        "rating_text_custom": false,
+        "rating_text_font": "josefin_sans_n4",
+        "rating_text_size": 24,
+        "rating_text_size_mobile": 20,
+        "rating_text_height": 130,
+        "rating_text_mt": 16,
+        "rating_text_mt_mobile": 16,
+        "rating": 4.8,
+        "rating_hide": false,
+        "rating_text_hide": false,
+        "stars_count": 5,
+        "stars_size": 28,
+        "stars_size_mobile": 24,
+        "text": "<p>basado en  +<strong>20.000</strong> opiniones<strong> </strong></p>",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 20,
+        "text_size_mobile": 16,
+        "text_height": 130,
+        "text_mt": 16,
+        "text_mt_mobile": 16,
+        "scrolling_velocity": 80,
+        "scrolling_velocity_mobile": 100,
+        "reverse_direction": false,
+        "pause_hover": true,
+        "scrolling_mt": 36,
+        "scrolling_mt_mobile": 36,
+        "scrolling_gap": 20,
+        "scrolling_gap_mobile": 20,
+        "card_width": 360,
+        "card_width_mobile": 280,
+        "card_padding_vertical": 36,
+        "card_padding_vertical_mobile": 28,
+        "card_padding_horizontal": 40,
+        "card_padding_horizontal_mobile": 24,
+        "card_radius": 16,
+        "card_border_thickness": 0,
+        "card_shadow_style": "2",
+        "card_content_align": "center",
+        "card_content_align_mobile": "center",
+        "card_height": false,
+        "card_heading_custom": false,
+        "card_heading_font": "josefin_sans_n4",
+        "card_heading_size": 24,
+        "card_heading_size_mobile": 20,
+        "card_heading_height": 130,
+        "card_heading_mt": 16,
+        "card_heading_mt_mobile": 16,
+        "card_text_custom": false,
+        "card_text_font": "josefin_sans_n4",
+        "card_text_size": 14,
+        "card_text_size_mobile": 14,
+        "card_text_height": 150,
+        "card_text_mt": 16,
+        "card_text_mt_mobile": 16,
+        "card_text_more": "View More",
+        "card_text_less": "View Less",
+        "card_count_words": 60,
+        "author_image_size": 56,
+        "author_image_size_mobile": 40,
+        "author_image_position": "inline_text",
+        "card_author_date_text_custom": false,
+        "card_author_date_text_font": "josefin_sans_n4",
+        "card_author_date_text_size": 16,
+        "card_author_date_text_size_mobile": 16,
+        "card_author_date_text_height": 130,
+        "card_author_date_text_mt": 16,
+        "card_author_date_text_mt_mobile": 16,
+        "button": "",
+        "button_url": "",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 16,
+        "button_size_mobile": 14,
+        "button_height": 100,
+        "button_align": "center",
+        "button_align_mobile": "center",
+        "button_mt": 32,
+        "button_mt_mobile": 28,
+        "button_padding_vertical": 16,
+        "button_padding_vertical_mobile": 16,
+        "button_padding_horizontal": 20,
+        "button_padding_horizontal_mobile": 20,
+        "button_radius": 8,
+        "button_border_thickness": 1,
+        "button_style": "outline",
+        "button_color": "#ffffff",
+        "button_hover_color": "#000000",
+        "button_bg_color": "#000000",
+        "button_bg_hover_color": "#ffffff",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "card_bg_color": "#ffffff",
+        "card_border_color": "#000000",
+        "card_heading_color": "#000000",
+        "card_text_color": "#000000",
+        "card_author_date_text_color": "#000000",
+        "view_color": "#000000",
+        "heading_color": "#000000",
+        "rating_text_color": "#000000",
+        "stars_bg_color": "#00b67a",
+        "stars_color": "#ffffff",
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 0,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "multi_column_9PqHTf": {
+      "type": "multi-column",
+      "blocks": {
+        "item_Gaxjk8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/before_after_600x600_98983263-6b7f-4173-ba96-d8b528ab958c.webp",
+            "column_size": "4",
+            "title": "Martina P.",
+            "heading_tag": "h4",
+            "content": "<p>Después de cuatro semanas de uso regular, noto que mi piel está más suave al tacto. No esperaba resultados visibles tan rápido, pero estoy impresionada. El legging es cómodo y discreto.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_zbGtm6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Cellublue-ces-avant-apres-qui-donne-envie-de-se-ruer-sur-les-ventouses.webp",
+            "column_size": "4",
+            "title": "Paula F.",
+            "heading_tag": "h4",
+            "content": "<p>Lo uso para mis caminatas rápidas por la tarde y siento que mis piernas están más ligeras. Tengo la sensación de que drena mejor, mis muslos están menos hinchados y más firmes. ¡Muy contenta!</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_QDdCnD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/d1b68b0477653500a41f5381e700e479.jpg",
+            "column_size": "4",
+            "title": "Valeria B.",
+            "heading_tag": "h4",
+            "content": "<p>Sinceramente, era escéptica, pero noto una verdadera diferencia en el aspecto de mi piel. Menos piel de naranja, especialmente en la parte trasera de los muslos. Sigo con la experiencia encantada.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_piDgiy": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Cellulite_reduction_testimonial_2.png",
+            "column_size": "4",
+            "title": "Isabella M.",
+            "heading_tag": "h4",
+            "content": "<p>Je l’ai pris pour le confort au départ, mais le plus gros plus c’est que ma cellulite s’estompe légèrement. Je suis régulière dans mes marches, et clairement, ça aide visiblement. Je recommande !<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_Gaxjk8",
+        "item_zbGtm6",
+        "item_QDdCnD",
+        "item_piDgiy"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 0px;}"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "custom_liquid_greETU": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -501,7 +711,7 @@
         "spacing": "small"
       }
     },
-    "review_truspilot_tRYbKe": {
+    "review_truspilot_tAXA7J": {
       "type": "review_truspilot",
       "name": "SS - Testimonial #16",
       "settings": {
@@ -632,108 +842,56 @@
         "lazy": true
       }
     },
-    "multi_column_9PqHTf": {
+    "multi_column_eFBdjC": {
       "type": "multi-column",
       "blocks": {
-        "item_Gaxjk8": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/before_after_600x600_98983263-6b7f-4173-ba96-d8b528ab958c.webp",
-            "column_size": "4",
-            "title": "Martina P.",
-            "heading_tag": "h4",
-            "content": "<p>Después de cuatro semanas de uso regular, noto que mi piel está más suave al tacto. No esperaba resultados visibles tan rápido, pero estoy impresionada. El legging es cómodo y discreto.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_zbGtm6": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Cellublue-ces-avant-apres-qui-donne-envie-de-se-ruer-sur-les-ventouses.webp",
-            "column_size": "4",
-            "title": "Paula F.",
-            "heading_tag": "h4",
-            "content": "<p>Lo uso para mis caminatas rápidas por la tarde y siento que mis piernas están más ligeras. Tengo la sensación de que drena mejor, mis muslos están menos hinchados y más firmes. ¡Muy contenta!</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_QDdCnD": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/d1b68b0477653500a41f5381e700e479.jpg",
-            "column_size": "4",
-            "title": "Valeria B.",
-            "heading_tag": "h4",
-            "content": "<p>Sinceramente, era escéptica, pero noto una verdadera diferencia en el aspecto de mi piel. Menos piel de naranja, especialmente en la parte trasera de los muslos. Sigo con la experiencia encantada.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_piDgiy": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Cellulite_reduction_testimonial_2.png",
-            "column_size": "4",
-            "title": "Isabella M.",
-            "heading_tag": "h4",
-            "content": "<p>Je l’ai pris pour le confort au départ, mais le plus gros plus c’est que ma cellulite s’estompe légèrement. Je suis régulière dans mes marches, et clairement, ça aide visiblement. Je recommande !<br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_emMHFT": {
+        "item_LTnVFa": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/505902200_122137799720774815_3252139540598708567_n_3d91f6d3-f691-47e9-ade9-0622e5d5cc75.jpg",
             "column_size": "4",
             "title": "Eva D.",
             "heading_tag": "h4",
-            "content": "<p>Super maintien à la taille sans cette sensation de coupe qui serre. Je le porte en salle comme à la maison, on l’oublie complètement. C’est rare de trouver ce niveau de confort.<br/><br/></p>",
+            "content": "<p>Sujeción perfecta en la cintura sin esa sensación de que aprieta. Lo uso tanto en el gimnasio como en casa, y se siente tan cómodo que te olvidas de que lo llevas puesto. Es raro encontrar este nivel de confort.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_Ke9Ge7": {
+        "item_7gzEE9": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/8sjO4AhTx28.jpg",
             "column_size": "4",
             "title": "Claudia Z.",
             "heading_tag": "h4",
-            "content": "<p>J’ai toujours peur de l’effet transparent avec les leggings noirs, surtout quand je m’accroupis. Celui-ci est 100% opaque, testé en pleine lumière naturelle. Je me sens en confiance, même avec un haut court.<br/><br/></p>",
+            "content": "<p>Siempre me da miedo el efecto transparente con los leggings negros, sobre todo cuando me agacho. Este es 100 % opaco, lo he probado con luz natural directa. Me siento segura, incluso con un top corto.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_9iNMLm": {
+        "item_8hzwi3": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/BLGiNwrGfD.jpg",
             "column_size": "4",
             "title": "Sabrina M.",
             "heading_tag": "h4",
-            "content": "<p>Je l’ai depuis 10 jours, je n’ai pas perdu de poids, mais mes cuisses paraissent déjà plus fermes. Le tissu est technique et très agréable à porter.<br/><br/></p>",
+            "content": "<p>Lo tengo desde hace 10 días, no he perdido peso, pero mis muslos ya se ven más firmes. El tejido es técnico y muy agradable de llevar.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_RhJq9P": {
+        "item_HEW8Ny": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/P10uxIkH4.jpg",
             "column_size": "4",
             "title": "Elisa V.",
             "heading_tag": "h4",
-            "content": "<p>Je l’ai pris pour le confort au départ, mais le plus gros plus c’est que ma cellulite s’estompe légèrement. Je suis régulière dans mes marches, et clairement, ça aide visiblement. Je recommande !<br/><br/></p>",
+            "content": "<p>Lo compré inicialmente por la comodidad, pero lo mejor es que mi celulitis se está atenuando poco a poco. Soy constante con mis caminatas y, claramente, esto ayuda de forma visible. ¡Lo recomiendo!</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -741,17 +899,10 @@
         }
       },
       "block_order": [
-        "item_Gaxjk8",
-        "item_zbGtm6",
-        "item_QDdCnD",
-        "item_piDgiy",
-        "item_emMHFT",
-        "item_Ke9Ge7",
-        "item_9iNMLm",
-        "item_RhJq9P"
-      ],
-      "custom_css": [
-        ".section-full {padding-top: 0px;}"
+        "item_LTnVFa",
+        "item_7gzEE9",
+        "item_8hzwi3",
+        "item_HEW8Ny"
       ],
       "name": "Multi-column",
       "settings": {
@@ -893,12 +1044,14 @@
     "main",
     "faq_9C4VWP",
     "media_modif_XhU9xX",
+    "review_truspilot_tRYbKe",
+    "multi_column_9PqHTf",
     "custom_liquid_greETU",
     "ss_product_video_gTz8ip",
     "media_modif_BtEyQ3",
     "media_modif_gmdRMp",
-    "review_truspilot_tRYbKe",
-    "multi_column_9PqHTf",
+    "review_truspilot_tAXA7J",
+    "multi_column_eFBdjC",
     "related-products",
     "faq_zyCqU8",
     "image_with_text_overlay_Fe4JgC"
