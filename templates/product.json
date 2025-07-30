@@ -402,7 +402,7 @@
         "image_mHTwUH": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/section1_b71a30d0-e8ba-4916-956e-8503410f763d.webp",
+            "image": "shopify://shop_images/section1es_9768edc9-18e6-4eb0-a120-79d142ac5ed1.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -410,7 +410,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "",
-            "content": "<p><em>TECHNOLOGIE INNOVANTE</em></p><h2>Un legging qui <em>draine et sculpte votre silhouette !</em></h2><p>Grâce à sa <strong>technologie 3D drainante</strong>, notre legging stimule la circulation sanguine à chaque mouvement, aidant votre corps à réduire naturellement la cellulite. Associée à une compression douce et ciblée, cette action affine la silhouette, tonifie les jambes et améliore visiblement la texture de la peau.<br/>Le tout est conçu dans un tissu extensible, respirant et ultra-doux, qui offre un maintien confortable, idéal pour vous accompagner du matin au soir sans jamais vous gêner.</p>",
+            "content": "<p><em>TECNOLOGÍA INNOVADORA</em></p><h2>¡ Un legging que drena<em> y esculpe tu silueta !</em></h2><p>Gracias a su <strong>tecnología 3D drenante</strong>, nuestro legging estimula la circulación sanguínea con cada movimiento, ayudando a tu cuerpo a reducir la celulitis de forma natural. Combinado con una compresión suave y localizada, este efecto afina la silueta, tonifica las piernas y mejora visiblemente la textura de la piel.</p><p>Todo está diseñado con un tejido elástico, transpirable y ultrasuave, que ofrece una sujeción cómoda, ideal para acompañarte desde la mañana hasta la noche sin molestias.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -437,7 +437,7 @@
         "image_FAUy3Y": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/section2_c3d18bde-9f3e-4776-ad24-dd8425b322c1.webp",
+            "image": "shopify://shop_images/section2es_3513bf37-f443-4b27-a4ad-f78d97248905.webp",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
@@ -445,7 +445,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "",
-            "content": "<p><em>PUSH-UP ET CONFORTABLE</em></p><h2>Une silhouette <em>galbée dès que vous l'enfilez !</em></h2><p>En plus de son confort absolu, notre <strong>legging 3D offre un effet sculptant immédiat</strong>.<br/>Sa coupe gainante affine les jambes, tandis que le plissé discret à l’arrière réhausse et galbe naturellement les fesses, pour une silhouette instantanément plus harmonieuse et plus sexy.<br/>Chez Ovaïa, on ne vous promet pas seulement des résultats visibles à long terme, on vous fait vous sentir belle dès la première seconde.</p>",
+            "content": "<p><em>PUSH-UP Y CÓMODO</em></p><h2>¡ Una silueta moldeada <em>en cuanto te lo pones !</em></h2><p>Además de su comodidad absoluta, nuestro <strong>legging 3D</strong> <strong>ofrece un efecto moldeador inmediato. </strong>Su corte reductor afina las piernas, mientras que el fruncido discreto en la parte trasera realza y moldea los glúteos de forma natural, para una silueta instantáneamente más armoniosa y sexy.</p><p>En <strong>Ovaïa</strong>, no solo prometemos resultados visibles a largo plazo, sino que te hacemos sentir bella desde el primer segundo.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
