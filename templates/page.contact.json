@@ -20,9 +20,9 @@
       "type": "contact",
       "settings": {
         "full_width": true,
-        "subheading": "Contactez-nous",
-        "title": "Vous avez une question ?",
-        "content": "<p><br/>Nous sommes là pour vous aider.<br/><br/></p>",
+        "subheading": "Contáctanos",
+        "title": "¿ Tienes alguna pregunta ?",
+        "content": "<p>Estamos aquí para ayudarte.</p>",
         "text_position": "start",
         "contact_form_size": "large",
         "background": "",
