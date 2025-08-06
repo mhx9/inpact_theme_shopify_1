@@ -102,7 +102,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/ordi_nature_1.png",
-            "alignment": "start",
+            "alignment": "center",
             "max_width": 500
           }
         },
